@@ -1,0 +1,9 @@
+{
+	"Changelist" : 3249277,
+	"CompatibleChangelist" : 3195953,
+	"BuildId" : "",
+	"Modules" : 
+	{
+		"DicomVisual" : "UE4Editor-DicomVisual-4883.dll"
+	}
+}
