@@ -1,0 +1,883 @@
+﻿Log file open, 03/17/17 17:32:19
+LogInit:Display: Running engine for game: DicomVisual
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(203153095) SRandInit(203153095).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.081620
+LogPluginManager: Loaded Plugin Paper2D, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.18-00.32.20:023][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.18-00.32.20:023][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.18-00.32.20:036][  0]LogInit: Computer: USER-PC
+[2017.03.18-00.32.20:036][  0]LogInit: User: User
+[2017.03.18-00.32.20:036][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.18-00.32.20:036][  0]LogInit: High frequency timer resolution =2.241013 MHz
+[2017.03.18-00.32.20:036][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2017.03.18-00.32.20:036][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.18-00.32.20:036][  0]LogMemory: Process Physical Memory: 264.72 MB used, 264.72 MB peak
+[2017.03.18-00.32.20:036][  0]LogMemory: Process Virtual Memory: 262.70 MB used, 262.70 MB peak
+[2017.03.18-00.32.20:036][  0]LogMemory: Physical Memory: 6368.14 MB used,  5879.77 MB free, 12247.90 MB total
+[2017.03.18-00.32.20:036][  0]LogMemory: Virtual Memory: 676.64 MB used,  5879.77 MB free, 134217728.00 MB total
+[2017.03.18-00.32.20:062][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.18-00.32.20:742][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.18-00.32.20:769][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 670M' (Feature Level 11_0)
+[2017.03.18-00.32.20:769][  0]LogD3D11RHI:       3020/0/6123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.03.18-00.32.20:771][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.18-00.32.20:771][  0]LogD3D11RHI:       0/0/6123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.18-00.32.20:771][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.18-00.32.20:776][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.18-00.32.20:776][  0]LogD3D11RHI:     GPU DeviceId: 0x1213 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.18-00.32.20:776][  0]LogWindows: EnumDisplayDevices:
+[2017.03.18-00.32.20:776][  0]LogWindows:    0. 'NVIDIA GeForce GTX 670M' (P:1 D:1)
+[2017.03.18-00.32.20:776][  0]LogWindows:    1. 'NVIDIA GeForce GTX 670M' (P:0 D:1)
+[2017.03.18-00.32.20:776][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.03.18-00.32.20:776][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 670M
+[2017.03.18-00.32.20:776][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2017.03.18-00.32.20:776][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2017.03.18-00.32.20:776][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.18-00.32.20:793][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.03.18-00.32.20:793][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.18-00.32.20:803][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.18-00.32.20:804][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Intermediate/Shaders/WorkingDirectory/14116/).
+[2017.03.18-00.32.20:804][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/7CBCEE3C473DF13A0DAE028022A633B6/'.
+[2017.03.18-00.32.20:804][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.18-00.32.21:827][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.18-00.32.21:884][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.18-00.32.21:941][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.18-00.32.22:000][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.18-00.32.22:058][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.18-00.32.22:115][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.18-00.32.22:173][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.18-00.32.22:231][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.18-00.32.22:276][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.18-00.32.22:334][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.18-00.32.22:391][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.18-00.32.22:453][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.18-00.32.22:510][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.18-00.32.22:573][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.18-00.32.22:629][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.18-00.32.22:742][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.18-00.32.22:742][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.18-00.32.22:779][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.18-00.32.22:868][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.18-00.32.22:907][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.18-00.32.22:963][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.18-00.32.23:019][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.18-00.32.23:074][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.18-00.32.23:130][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.18-00.32.23:130][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.18-00.32.23:528][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.18-00.32.23:583][  0]LogDerivedDataCache: Loaded boot cache 0.05s 50MB C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.18-00.32.23:583][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.03.18-00.32.23:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/User/Documents/GitHub/senior-design/DicomVisual/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.18-00.32.23:583][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.18-00.32.23:583][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/User/Documents/GitHub/senior-design/DicomVisual/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.18-00.32.23:583][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.18-00.32.23:602][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.18-00.32.23:614][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.18-00.32.23:877][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.18-00.32.23:881][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.18-00.32.24:095][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.18-00.32.24:137][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.18-00.32.24:182][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.18-00.32.24:182][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.18-00.32.24:182][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.18-00.32.24:711][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: dicomvisual, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3438762601
+[2017.03.18-00.32.24:771][  0]LogAssetRegistry: FAssetRegistry took 0.0219 seconds to start up
+[2017.03.18-00.32.24:829][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.031400 seconds
+[2017.03.18-00.32.24:835][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.03.18-00.32.24:835][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.03.18-00.32.24:835][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.18-00.32.24:896][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.18-00.32.25:654][  0]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2017.03.18-00.32.25:654][  0]LogFileManager:Warning: DeleteFile recovered during retry!
+[2017.03.18-00.32.25:654][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.18-00.32.25:655][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.18-00.32.25:655][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.18-00.32.26:486][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.18-00.32.26:525][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.18-00.32.26:869][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.18-00.32.27:245][  0]SourceControl: Info Source control is disabled
+[2017.03.18-00.32.27:276][  0]SourceControl: Info Source control is disabled
+[2017.03.18-00.32.27:320][  0]SourceControl: Info Source control is disabled
+[2017.03.18-00.32.27:363][  0]SourceControl: Info Source control is disabled
+[2017.03.18-00.32.28:603][  0]LogEngine: Initializing Engine...
+[2017.03.18-00.32.28:604][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.18-00.32.28:852][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.18-00.32.28:869][  0]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.32.28:886][  0]LogInit: FAudioDevice initialized.
+[2017.03.18-00.32.28:914][  0]LogDerivedDataCache: Saved boot cache 0.03s 50MB C:/Users/User/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.18-00.32.28:924][  0]LogInit: Texture streaming: Enabled
+[2017.03.18-00.32.29:106][  0]LogInit: Transaction tracking system initialized
+[2017.03.18-00.32.29:430][  0]BlueprintLog: New page: Editor Load
+[2017.03.18-00.32.30:372][  0]LocalizationService: Info Localization service is disabled
+[2017.03.18-00.32.30:992][  0]LogConsoleResponse:Display: 
+[2017.03.18-00.32.31:136][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.18-00.32.31:136][  0]LogCook:Display: Mobile HDR setting 0
+[2017.03.18-00.32.32:003][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/' took 0.01s
+[2017.03.18-00.32.32:044][  0]SourceControl: Info Source control is disabled
+[2017.03.18-00.32.32:045][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.18-00.32.32:045][  0]LightingResults: New page: Lighting Build
+[2017.03.18-00.32.32:083][  0]MapCheck: New page: Map Check
+[2017.03.18-00.32.32:083][  0]LightingResults: New page: Lighting Build
+[2017.03.18-00.32.32:369][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.03.18-00.32.32:371][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.18-00.32.32:376][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.18-00.32.32:379][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.18-00.32.32:415][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 36.157ms to complete.
+[2017.03.18-00.32.32:416][  0]LogFileHelpers: Loading map 'Template_Default' took 0.371
+[2017.03.18-00.32.32:483][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.18-00.32.32:563][  0]LogCollectionManager: Loaded 0 collections in 0.001634 seconds
+[2017.03.18-00.32.32:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/Collections/' took 0.01s
+[2017.03.18-00.32.32:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/Developers/User/Collections/' took 0.01s
+[2017.03.18-00.32.32:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/Collections/' took 0.01s
+[2017.03.18-00.32.32:638][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.18-00.32.32:650][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2191 classes and 430 folders.
+[2017.03.18-00.32.32:689][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.18-00.32.32:689][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.18-00.32.32:691][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0021 seconds. Added 13 classes and 0 folders.
+[2017.03.18-00.32.32:754][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2017.03.18-00.32.32:796][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2017.03.18-00.32.32:839][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2017.03.18-00.32.32:879][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.18-00.32.32:885][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.18-00.32.32:949][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2017.03.18-00.32.32:949][  0]LogLoad: (Engine Initialization) Total time: 14.69 seconds
+[2017.03.18-00.32.32:949][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.10 seconds
+[2017.03.18-00.32.32:949][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.18-00.32.32:949][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.18-00.32.32:967][  0]LogOcInput: OculusInput pre-init called
+[2017.03.18-00.32.32:986][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.18-00.32.33:164][  0]LogRenderer: Reallocating scene render targets to support 1168x600 NumSamples 1 (Frame:2).
+[2017.03.18-00.32.33:274][  1]LogAssetRegistry: Asset discovery search completed in 8.5248 seconds
+[2017.03.18-00.32.33:274][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.18-00.32.33:274][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000021 seconds (updated 0 objects)
+[2017.03.18-00.32.38:519][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.18-00.32.57:786][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.18-00.32.59:460][560]Cmd: DELETE
+[2017.03.18-00.32.59:460][560]Cmd: ACTOR DELETE
+[2017.03.18-00.32.59:569][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.03.18-00.32.59:582][560]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.03.18-00.33.01:790][685]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.03.18-00.33.07:036][985]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.33.08:988][985]Cmd: MAP LOAD FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.18-00.33.08:989][985]LightingResults: New page: Lighting Build
+[2017.03.18-00.33.08:990][985]LoadErrors: New page: Loading map: VRMap.umap
+[2017.03.18-00.33.08:991][985]MapCheck: New page: Map Check
+[2017.03.18-00.33.08:991][985]LightingResults: New page: Lighting Build
+[2017.03.18-00.33.09:005][985]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.18-00.33.09:026][985]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.18-00.33.09:069][985]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 42.948ms to complete.
+[2017.03.18-00.33.09:069][985]LogFileHelpers: Loading map 'VRMap' took 0.084
+[2017.03.18-00.33.12:001][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.18-00.33.14:545][309]Cmd: DELETE
+[2017.03.18-00.33.14:545][309]Cmd: ACTOR DELETE
+[2017.03.18-00.33.14:547][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.03.18-00.33.14:557][309]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2017.03.18-00.33.17:888][508]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.03.18-00.33.20:011][634]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.18-00.34.11:072][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.34.11:127][641]LogSavePackage: Save=36.84ms
+[2017.03.18-00.34.11:127][641]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap929857684AAAE84CC6217DAF466701B4.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.34.11:130][641]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.34.21:322][250]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.34.38:575][271]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.03.18-00.35.29:265][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.35.29:327][305]LogSavePackage: Save=40.34ms
+[2017.03.18-00.35.29:327][305]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap6F22F9C942CBBA65EB94ECAB364B7D8B.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.35.29:330][305]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.35.52:174][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.36.16:004][ 87]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2017.03.18-00.36.19:598][278]Cmd: SELECT NONE
+[2017.03.18-00.36.23:597][516]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.36.23:609][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.36.23:609][516]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:36:23 AM)
+[2017.03.18-00.36.23:610][516]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.36.23:613][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003619s)
+[2017.03.18-00.36.23:614][516]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.36.23:614][516]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2017.03.18-00.36.23:614][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.004592s)
+[2017.03.18-00.36.23:637][516]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.36.23:652][516]LogInit: FAudioDevice initialized.
+[2017.03.18-00.36.23:698][516]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.36.23:700][516]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.36.23
+[2017.03.18-00.36.23:701][516]LogWorld: Bringing up level for play took: 0.000900
+[2017.03.18-00.36.23:811][516]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0022 seconds. Added 11 classes and 0 folders.
+[2017.03.18-00.36.23:814][516]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap 0.876
+[2017.03.18-00.37.48:623][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.37.48:673][600]LogSavePackage: Save=35.58ms
+[2017.03.18-00.37.48:673][600]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap0C7D85DF44B77808BF5A07A6B754500D.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.37.48:678][600]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.37.56:982][ 61]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 111 classes and 0 folders.
+[2017.03.18-00.38.29:087][700]BlueprintLog: New page: Compile VR_Character
+[2017.03.18-00.38.29:561][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Character/VR_Character" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset" SILENT=true
+[2017.03.18-00.38.29:603][720]LogSavePackage: Save=31.40ms
+[2017.03.18-00.38.29:603][720]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VR_Character76543BCB48545A69A685A0AD75CBA393.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset'
+[2017.03.18-00.38.29:606][720]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset
+[2017.03.18-00.41.06:824][893]BlueprintLog: New page: Compile VR_Character
+[2017.03.18-00.41.07:322][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Character/VR_Character" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset" SILENT=true
+[2017.03.18-00.41.07:361][915]LogSavePackage: Save=34.45ms
+[2017.03.18-00.41.07:361][915]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VR_CharacterD1A6315645BF35866204DEA574695F21.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset'
+[2017.03.18-00.41.07:364][915]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset
+[2017.03.18-00.41.09:943][ 66]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.41.09:964][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.41.09:965][ 66]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:41:09 AM)
+[2017.03.18-00.41.09:965][ 66]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.41.09:969][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003925s)
+[2017.03.18-00.41.09:969][ 66]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.41.09:970][ 66]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2017.03.18-00.41.09:970][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.005044s)
+[2017.03.18-00.41.09:998][ 66]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.41.10:013][ 66]LogInit: FAudioDevice initialized.
+[2017.03.18-00.41.10:047][ 66]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.41.10:048][ 66]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.41.10
+[2017.03.18-00.41.10:049][ 66]LogWorld: Bringing up level for play took: 0.000797
+[2017.03.18-00.41.10:050][ 66]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap -0.887
+[2017.03.18-00.41.53:100][617]BlueprintLog: New page: Compile VR_Character
+[2017.03.18-00.41.53:748][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Character/VR_Character" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset" SILENT=true
+[2017.03.18-00.41.53:785][645]LogSavePackage: Save=32.84ms
+[2017.03.18-00.41.53:785][645]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VR_CharacterAE660FC1419CC97C3929D1836C0AAF2B.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset'
+[2017.03.18-00.41.53:786][645]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset
+[2017.03.18-00.41.55:738][758]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.41.55:750][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.41.55:750][758]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:41:55 AM)
+[2017.03.18-00.41.55:750][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.41.55:753][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003339s)
+[2017.03.18-00.41.55:754][758]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.41.55:754][758]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2017.03.18-00.41.55:754][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.004216s)
+[2017.03.18-00.41.55:780][758]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.41.55:795][758]LogInit: FAudioDevice initialized.
+[2017.03.18-00.41.55:825][758]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.41.55:827][758]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.41.55
+[2017.03.18-00.41.55:827][758]LogWorld: Bringing up level for play took: 0.000780
+[2017.03.18-00.41.55:828][758]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap 0.891
+[2017.03.18-00.42.24:184][336]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.03.18-00.42.24:249][337]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.DicomVisual
+
+[2017.03.18-00.42.24:249][337]LogTemp:Display: CWD: D:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.03.18-00.42.24:249][337]LogTemp:Display: Initial Dir: D:\Program Files (x86)\Epic Games\4.14
+
+[2017.03.18-00.42.24:249][337]LogTemp:Display: Env CWD: D:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.03.18-00.42.24:249][337]LogTemp:Display: BranchPath = USER-PC/D/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = USER-PC/D/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.03.18-00.42.24:272][338]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\User\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.03.18-00.42.24:272][338]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.03.18-00.42.24:272][338]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.03.18-00.42.24:272][338]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.03.18-00.42.24:272][338]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.03.18-00.42.24:272][338]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.03.18-00.43.19:962][732]BlueprintLog: New page: Compile VR_Character
+[2017.03.18-00.43.20:576][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Character/VR_Character" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset" SILENT=true
+[2017.03.18-00.43.20:614][758]LogSavePackage: Save=33.43ms
+[2017.03.18-00.43.20:614][758]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VR_Character418F9E084FECEE57492DDBB9D40FFEC0.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset'
+[2017.03.18-00.43.20:615][758]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset
+[2017.03.18-00.43.22:313][856]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.43.22:325][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.43.22:325][856]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:43:22 AM)
+[2017.03.18-00.43.22:325][856]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.43.22:328][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003115s)
+[2017.03.18-00.43.22:329][856]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.43.22:329][856]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.03.18-00.43.22:329][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.004101s)
+[2017.03.18-00.43.22:355][856]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.43.22:372][856]LogInit: FAudioDevice initialized.
+[2017.03.18-00.43.22:405][856]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.43.22:407][856]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.43.22
+[2017.03.18-00.43.22:407][856]LogWorld: Bringing up level for play took: 0.000774
+[2017.03.18-00.43.22:409][856]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap -0.528
+[2017.03.18-00.45.28:397][290]BlueprintLog: New page: Compile VR_Character
+[2017.03.18-00.45.29:016][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Character/VR_Character" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset" SILENT=true
+[2017.03.18-00.45.29:063][312]LogSavePackage: Save=35.09ms
+[2017.03.18-00.45.29:063][312]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VR_Character7258519C4087A0D551008099FA9AB442.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset'
+[2017.03.18-00.45.29:066][312]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset
+[2017.03.18-00.45.31:226][435]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.45.31:239][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.45.31:239][435]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:45:31 AM)
+[2017.03.18-00.45.31:239][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.45.31:243][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003202s)
+[2017.03.18-00.45.31:243][435]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.45.31:243][435]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2017.03.18-00.45.31:243][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.004162s)
+[2017.03.18-00.45.31:269][435]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.45.31:284][435]LogInit: FAudioDevice initialized.
+[2017.03.18-00.45.31:313][435]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.45.31:315][435]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.45.31
+[2017.03.18-00.45.31:315][435]LogWorld: Bringing up level for play took: 0.000764
+[2017.03.18-00.45.31:317][435]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap 0.379
+[2017.03.18-00.45.51:899][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.46.37:716][292]LogRenderer: Reallocating scene render targets to support 1168x940 NumSamples 1 (Frame:36476).
+[2017.03.18-00.46.53:814][ 47]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.18-00.47.04:020][454]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.18-00.47.32:222][597]BlueprintLog: New page: Compile VR_Character
+[2017.03.18-00.47.32:729][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Character/VR_Character" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset" SILENT=true
+[2017.03.18-00.47.32:777][610]LogSavePackage: Save=43.23ms
+[2017.03.18-00.47.32:778][610]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VR_CharacterB693A4DC492AF38DA691D383054802C6.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset'
+[2017.03.18-00.47.32:780][610]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset
+[2017.03.18-00.47.36:529][775]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.47.36:545][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.47.36:545][775]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:47:36 AM)
+[2017.03.18-00.47.36:545][775]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.47.36:548][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003156s)
+[2017.03.18-00.47.36:549][775]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.47.36:549][775]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2017.03.18-00.47.36:549][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.004091s)
+[2017.03.18-00.47.36:575][775]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.47.36:590][775]LogInit: FAudioDevice initialized.
+[2017.03.18-00.47.36:625][775]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.47.36:627][775]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.47.36
+[2017.03.18-00.47.36:628][775]LogWorld: Bringing up level for play took: 0.000813
+[2017.03.18-00.47.36:630][775]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap -0.308
+[2017.03.18-00.47.59:476][ 86]BlueprintLog: New page: Compile VR_Character
+[2017.03.18-00.47.59:990][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Character/VR_Character" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset" SILENT=true
+[2017.03.18-00.48.00:118][105]LogSavePackage: Save=123.22ms
+[2017.03.18-00.48.00:118][105]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VR_Character7DCF45F441B21F5585CAE190FBDAEA5E.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset'
+[2017.03.18-00.48.00:121][105]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Character/VR_Character.uasset
+[2017.03.18-00.48.35:279][157]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.48.35:857][191]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.48.37:034][258]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.48.38:435][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.48.39:744][414]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.48.41:776][532]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.18-00.48.49:869][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.48.49:932][ 13]LogSavePackage: Save=35.37ms
+[2017.03.18-00.48.49:932][ 13]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapCBD500534816BC1B435952A067D7DAC0.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.48.49:936][ 13]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.49.19:057][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.49.19:123][637]LogSavePackage: Save=36.65ms
+[2017.03.18-00.49.19:123][637]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap77EF691D4D4DE80656A9238AD359A9EA.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.49.19:127][637]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.49.21:681][783]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.49.21:697][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.49.21:697][783]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:49:21 AM)
+[2017.03.18-00.49.21:698][783]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.49.21:701][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003250s)
+[2017.03.18-00.49.21:701][783]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.49.21:701][783]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2017.03.18-00.49.21:702][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.004116s)
+[2017.03.18-00.49.21:734][783]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.49.21:752][783]LogInit: FAudioDevice initialized.
+[2017.03.18-00.49.21:782][783]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.49.21:784][783]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.49.21
+[2017.03.18-00.49.21:784][783]LogWorld: Bringing up level for play took: 0.000888
+[2017.03.18-00.49.21:785][783]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap 0.848
+[2017.03.18-00.49.57:424][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.49.57:491][916]LogSavePackage: Save=48.06ms
+[2017.03.18-00.49.57:492][916]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapD1B0A5F9415A4164E2670084005C0A68.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.49.57:494][916]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.50.01:016][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.50.01:088][120]LogSavePackage: Save=47.94ms
+[2017.03.18-00.50.01:088][120]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap4F17200B42D3973DBFCD6197EF24A2C4.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.50.01:090][120]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.51.11:294][867]BlueprintLog: New page: Compile Menu_Widget
+[2017.03.18-00.51.11:997][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Menu/Menu_Widget" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset" SILENT=true
+[2017.03.18-00.51.12:029][891]LogSavePackage: Save=21.90ms
+[2017.03.18-00.51.12:029][891]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/Menu_Widget6C3B1EBF4829A2F3CC3BE79E40178D9D.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset'
+[2017.03.18-00.51.12:032][891]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset
+[2017.03.18-00.51.15:926][ 83]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.51.15:944][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.51.15:945][ 83]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:51:15 AM)
+[2017.03.18-00.51.15:945][ 83]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.51.15:948][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003634s)
+[2017.03.18-00.51.15:949][ 83]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.51.15:949][ 83]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2017.03.18-00.51.15:949][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.004755s)
+[2017.03.18-00.51.15:977][ 83]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.51.15:992][ 83]LogInit: FAudioDevice initialized.
+[2017.03.18-00.51.16:023][ 83]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.51.16:025][ 83]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.51.16
+[2017.03.18-00.51.16:025][ 83]LogWorld: Bringing up level for play took: 0.000886
+[2017.03.18-00.51.16:027][ 83]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap -0.911
+[2017.03.18-00.51.29:019][862]LogCharacterMovement: VR_Character_C_0 is stuck and failed to move! Velocity: X=-112.47 Y=-9.07 Z=0.00 Location: X=170.56 Y=-6.44 Z=178.00 Normal: X=0.54 Y=-0.00 Z=0.84 PenetrationDepth:0.000 Actor:Menu_Widget_614 Component:Cube BoneName:None (0 other events since notify)
+[2017.03.18-00.52.24:599][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.52.24:656][ 98]LogSavePackage: Save=35.10ms
+[2017.03.18-00.52.24:657][ 98]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap5CA4F42C4C4FE2047E06109414BAEF5A.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.52.24:659][ 98]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.52.48:050][457]BlueprintLog: New page: Compile Menu_Widget
+[2017.03.18-00.52.48:920][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Menu/Menu_Widget" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset" SILENT=true
+[2017.03.18-00.52.48:947][487]LogSavePackage: Save=21.86ms
+[2017.03.18-00.52.48:947][487]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/Menu_Widget4A78AB204F4969F4659A79B8C9BC0CD0.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset'
+[2017.03.18-00.52.48:951][487]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset
+[2017.03.18-00.53.07:013][289]BlueprintLog: New page: Compile Menu_Widget
+[2017.03.18-00.53.08:161][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Menu/Menu_Widget" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset" SILENT=true
+[2017.03.18-00.53.08:192][346]LogSavePackage: Save=25.90ms
+[2017.03.18-00.53.08:192][346]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/Menu_Widget6C5EF16F481C0AC3B3C8618FDCAC82F9.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset'
+[2017.03.18-00.53.08:196][346]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset
+[2017.03.18-00.53.16:271][756]BlueprintLog: New page: Compile Menu_Widget
+[2017.03.18-00.53.17:031][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Menu/Menu_Widget" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset" SILENT=true
+[2017.03.18-00.53.17:057][790]LogSavePackage: Save=21.59ms
+[2017.03.18-00.53.17:057][790]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/Menu_Widget8443DD9F409105F1A340D3B43565DD17.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset'
+[2017.03.18-00.53.17:061][790]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset
+[2017.03.18-00.53.18:884][895]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.53.18:900][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.53.18:901][895]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:53:18 AM)
+[2017.03.18-00.53.18:901][895]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.53.18:905][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004417s)
+[2017.03.18-00.53.18:906][895]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.53.18:906][895]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2017.03.18-00.53.18:906][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.005503s)
+[2017.03.18-00.53.18:932][895]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.53.18:947][895]LogInit: FAudioDevice initialized.
+[2017.03.18-00.53.18:983][895]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.53.18:984][895]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.53.18
+[2017.03.18-00.53.18:985][895]LogWorld: Bringing up level for play took: 0.000826
+[2017.03.18-00.53.18:986][895]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap 0.048
+[2017.03.18-00.53.41:209][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.53.41:267][219]LogSavePackage: Save=36.27ms
+[2017.03.18-00.53.41:268][219]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap561E5BCE47BDB9899A2F4B8AFA050213.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.53.41:272][219]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.54.13:295][856]BlueprintLog: New page: Compile Menu_Widget
+[2017.03.18-00.54.14:000][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Menu/Menu_Widget" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset" SILENT=true
+[2017.03.18-00.54.14:028][879]LogSavePackage: Save=23.30ms
+[2017.03.18-00.54.14:028][879]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/Menu_Widget8593A165483DFCD404613CA122BAFEB0.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset'
+[2017.03.18-00.54.14:031][879]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VR_Menu/Menu_Widget.uasset
+[2017.03.18-00.54.16:243][999]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.54.16:259][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.54.16:260][999]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:54:16 AM)
+[2017.03.18-00.54.16:260][999]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.54.16:263][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002967s)
+[2017.03.18-00.54.16:263][999]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.54.16:263][999]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2017.03.18-00.54.16:263][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.003844s)
+[2017.03.18-00.54.16:290][999]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.54.16:305][999]LogInit: FAudioDevice initialized.
+[2017.03.18-00.54.16:335][999]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.54.16:337][999]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.54.16
+[2017.03.18-00.54.16:338][999]LogWorld: Bringing up level for play took: 0.000760
+[2017.03.18-00.54.16:339][999]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap -0.599
+[2017.03.18-00.55.04:867][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.55.04:925][910]LogSavePackage: Save=34.22ms
+[2017.03.18-00.55.04:926][910]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapF69864AF4E7225C7A0816FB915810976.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.55.04:929][910]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.55.06:668][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRMap" FILE="C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.18-00.55.06:720][  6]LogSavePackage: Save=32.15ms
+[2017.03.18-00.55.06:720][  6]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapED49FDA14B2733467706A7BCB01BA1CB.tmp' to 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap'
+[2017.03.18-00.55.06:721][  6]LogSavePackage:Display: Finished SavePackage C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/VRMap.umap
+[2017.03.18-00.57.32:642][760]LogTemp: Repeting last play command: Selected Viewport
+[2017.03.18-00.57.32:655][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.18-00.57.32:655][760]PIE: New page: PIE session: VRMap (Mar 17, 2017, 10:57:32 AM)
+[2017.03.18-00.57.32:655][760]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_VRMap
+[2017.03.18-00.57.32:659][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004253s)
+[2017.03.18-00.57.32:660][760]LogAIModule: Creating AISystem for world VRMap
+[2017.03.18-00.57.32:660][760]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2017.03.18-00.57.32:661][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRMap.VRMap to /Game/UEDPIE_0_VRMap.VRMap (0.005719s)
+[2017.03.18-00.57.32:688][760]LogInit: XAudio2 using 'Headphone (VIA HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.18-00.57.32:703][760]LogInit: FAudioDevice initialized.
+[2017.03.18-00.57.32:733][760]LogLoad: Game class is 'VR_GameMode_C'
+[2017.03.18-00.57.32:735][760]LogWorld: Bringing World /Game/UEDPIE_0_VRMap.VRMap up for play (max tick rate 60) at 2017.03.17-17.57.32
+[2017.03.18-00.57.32:735][760]LogWorld: Bringing up level for play took: 0.000866
+[2017.03.18-00.57.32:737][760]PIE: Info Play in editor start time for /Game/UEDPIE_0_VRMap -0.2
+[2017.03.18-00.57.54:554][ 47]Cmd: QUIT_EDITOR
+[2017.03.18-00.57.54:822][ 47]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.18-00.57.54:854][ 47]LogExit: Preparing to exit.
+[2017.03.18-00.57.55:297][ 47]LogExit: Editor shut down
+[2017.03.18-00.57.55:299][ 47]LogExit: Transaction tracking system shut down
+[2017.03.18-00.57.55:441][ 47]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.18-00.57.55:441][ 47]LogExit: Object subsystem successfully closed.
+[2017.03.18-00.57.55:458][ 47]LogD3D11RHI: Shutdown
+[2017.03.18-00.57.55:458][ 47]LogD3D11RHI: CleanupD3DDevice
+[2017.03.18-00.57.55:638][ 47]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.18-00.57.55:651][ 47]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.03.18-00.57.55:651][ 47]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5E06E443-4160-A73B-B013-CFB49B500B2A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=4d3767344a273b0a09a3caa07d898e27%7C0a34f74345724195b9ac8b33fa1ec343%7C32c45f02-c6f5-46b2-a2ba-ff1a1e62aa60&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (246)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module BlueprintGraph (245)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (244)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (243)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (242)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module CrashTracker (241)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module SceneOutliner (240)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module WidgetCarousel (239)
+[2017.03.18-00.57.55:678][ 47]LogModuleManager: Shutting down and abandoning module AddContentDialog (238)
+[2017.03.18-00.57.55:679][ 47]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.03.18-00.57.55:686][ 47]LogModuleManager: Shutting down and abandoning module GameplayTags (237)
+[2017.03.18-00.57.55:686][ 47]LogModuleManager: Shutting down and abandoning module EditorWidgets (236)
+[2017.03.18-00.57.55:686][ 47]LogModuleManager: Shutting down and abandoning module CollectionManager (235)
+[2017.03.18-00.57.55:686][ 47]LogDirectoryWatcher: A directory notification for 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/Collections/' was aborted.
+[2017.03.18-00.57.55:686][ 47]LogDirectoryWatcher: A directory notification for 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/Developers/User/Collections/' was aborted.
+[2017.03.18-00.57.55:686][ 47]LogDirectoryWatcher: A directory notification for 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Saved/Collections/' was aborted.
+[2017.03.18-00.57.55:686][ 47]LogModuleManager: Shutting down and abandoning module StatsViewer (234)
+[2017.03.18-00.57.55:686][ 47]LogModuleManager: Shutting down and abandoning module FoliageEdit (233)
+[2017.03.18-00.57.55:686][ 47]LogModuleManager: Shutting down and abandoning module LandscapeEditor (232)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (231)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module ActorPickerMode (230)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module GeometryMode (229)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module TextureAlignMode (228)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module BspMode (227)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module HardwareSurvey (226)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (225)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module AutomationWorker (224)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (223)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module PlacementMode (222)
+[2017.03.18-00.57.55:986][ 47]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (221)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (220)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (219)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (218)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (217)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module Media (216)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (215)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (214)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module CharacterAI (213)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module SequenceRecorder (212)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module AudioCapture (211)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module SmartSnapping (210)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module SessionServices (209)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module ViewportSnapping (208)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module ViewportInteraction (207)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module LogVisualizer (206)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (205)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module IntroTutorials (204)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (203)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (202)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (201)
+[2017.03.18-00.57.56:045][ 47]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (200)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (199)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (198)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (197)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module InputBindingEditor (196)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module NiagaraEditor (195)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module MergeActors (194)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module SizeMap (193)
+[2017.03.18-00.57.56:227][ 47]LogModuleManager: Shutting down and abandoning module TreeMap (192)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module ReferenceViewer (191)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module LocalizationService (190)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (189)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module HardwareTargeting (188)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (187)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module UndoHistory (186)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module UserFeedback (185)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module XmlParser (184)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module Blutility (183)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (182)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (181)
+[2017.03.18-00.57.56:228][ 47]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (180)
+[2017.03.18-00.57.56:229][ 47]LogModuleManager: Shutting down and abandoning module SettingsEditor (179)
+[2017.03.18-00.57.56:229][ 47]LogModuleManager: Shutting down and abandoning module ProjectLauncher (178)
+[2017.03.18-00.57.56:229][ 47]LogModuleManager: Shutting down and abandoning module SessionFrontend (177)
+[2017.03.18-00.57.56:229][ 47]LogModuleManager: Shutting down and abandoning module ProfilerClient (176)
+[2017.03.18-00.57.56:229][ 47]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (175)
+[2017.03.18-00.57.56:229][ 47]LogModuleManager: Shutting down and abandoning module DeviceManager (174)
+[2017.03.18-00.57.56:272][ 47]LogModuleManager: Shutting down and abandoning module AutomationController (173)
+[2017.03.18-00.57.56:272][ 47]LogModuleManager: Shutting down and abandoning module AutomationWindow (172)
+[2017.03.18-00.57.56:272][ 47]LogModuleManager: Shutting down and abandoning module Layers (171)
+[2017.03.18-00.57.56:280][ 47]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (170)
+[2017.03.18-00.57.56:280][ 47]LogModuleManager: Shutting down and abandoning module DetailCustomizations (169)
+[2017.03.18-00.57.56:280][ 47]LogModuleManager: Shutting down and abandoning module PackagesDialog (168)
+[2017.03.18-00.57.56:280][ 47]LogModuleManager: Shutting down and abandoning module AnimGraph (167)
+[2017.03.18-00.57.56:280][ 47]LogModuleManager: Shutting down and abandoning module Persona (166)
+[2017.03.18-00.57.56:281][ 47]LogModuleManager: Shutting down and abandoning module Kismet (165)
+[2017.03.18-00.57.56:287][ 47]LogModuleManager: Shutting down and abandoning module GraphEditor (164)
+[2017.03.18-00.57.56:287][ 47]LogModuleManager: Shutting down and abandoning module ClassViewer (163)
+[2017.03.18-00.57.56:288][ 47]LogModuleManager: Shutting down and abandoning module Toolbox (162)
+[2017.03.18-00.57.56:288][ 47]LogModuleManager: Shutting down and abandoning module ModuleUI (161)
+[2017.03.18-00.57.56:288][ 47]LogModuleManager: Shutting down and abandoning module MovieSceneTools (160)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module OutputLog (159)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module GammaUI (158)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module Documentation (157)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module Niagara (156)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (155)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module AnalyticsET (154)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module PortalServices (153)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module PortalRpc (152)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module MessagingRpc (151)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module GameplayDebugger (150)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module AITestSuite (149)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module AIModule (148)
+[2017.03.18-00.57.56:289][ 47]LogModuleManager: Shutting down and abandoning module ProfilerService (147)
+[2017.03.18-00.57.56:355][ 47]LogModuleManager: Shutting down and abandoning module TaskGraph (146)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (133)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (131)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module GeometryCache (130)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module AlembicLibrary (129)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module AlembicImporter (128)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SuperSearch (127)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (126)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (125)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module PluginBrowser (124)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (123)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module EpicSurvey (122)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module DesktopPlatform (121)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (120)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module UObjectPlugin (119)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (118)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (117)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module SourceControl (116)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module GitSourceControl (115)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (114)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (113)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (112)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module MeshPaint (111)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (110)
+[2017.03.18-00.57.56:356][ 47]LogModuleManager: Shutting down and abandoning module HotReload (109)
+[2017.03.18-00.57.56:356][ 47]LogDirectoryWatcher: A directory notification for 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Binaries/Win64' was aborted.
+[2017.03.18-00.57.56:357][ 47]LogModuleManager: Shutting down and abandoning module MainFrame (108)
+[2017.03.18-00.57.56:357][ 47]LogModuleManager: Shutting down and abandoning module LevelEditor (107)
+[2017.03.18-00.57.56:359][ 47]LogModuleManager: Shutting down and abandoning module ContentBrowser (106)
+[2017.03.18-00.57.56:363][ 47]LogModuleManager: Shutting down and abandoning module Paper2DEditor (105)
+[2017.03.18-00.57.56:363][ 47]LogModuleManager: Shutting down and abandoning module DicomVisual (104)
+[2017.03.18-00.57.56:363][ 47]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.03.18-00.57.56:464][ 47]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.03.18-00.57.56:565][ 47]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.03.18-00.57.56:675][ 47]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.03.18-00.57.56:678][ 47]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.03.18-00.57.56:678][ 47]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.03.18-00.57.56:678][ 47]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.03.18-00.57.56:678][ 47]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.03.18-00.57.56:678][ 47]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.03.18-00.57.56:678][ 47]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.03.18-00.57.56:678][ 47]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.18-00.57.56:678][ 47]LogDirectoryWatcher: A directory notification for 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Content/' was aborted.
+[2017.03.18-00.57.56:679][ 47]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.18-00.57.56:683][ 47]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.03.18-00.57.57:379][ 47]LogFileManager:Warning: DeleteFile was unable to delete 'C:/Users/User/Documents/GitHub/senior-design/DicomVisual/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2017.03.18-00.57.57:379][ 47]LogFileManager:Warning: DeleteFile recovered during retry!
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.03.18-00.57.57:379][ 47]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.03.18-00.57.57:390][ 47]LogDerivedDataCache: Shutdown
+[2017.03.18-00.57.57:390][ 47]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.03.18-00.57.57:391][ 47]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.18-00.57.57:392][ 47]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.18-00.57.57:392][ 47]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.18-00.57.57:392][ 47]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.18-00.57.57:392][ 47]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.03.18-00.57.57:392][ 47]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.03.18-00.57.57:392][ 47]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.03.18-00.57.57:392][ 47]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.18-00.57.57:392][ 47]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.03.18-00.57.57:394][ 47]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.18-00.57.57:394][ 47]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.18-00.57.57:394][ 47]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.18-00.57.57:394][ 47]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.18-00.57.57:394][ 47]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.18-00.57.57:394][ 47]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.18-00.57.57:399][ 47]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.18-00.57.57:401][ 47]LogExit: Exiting.
+[2017.03.18-00.57.57:418][ 47]Log file closed, 03/17/17 17:57:57
