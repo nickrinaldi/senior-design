@@ -1,0 +1,1052 @@
+﻿Log file open, 03/30/17 11:58:05
+LogInit:Display: Running engine for game: DicomVisual
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-11312793) SRandInit(-11312793).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.066039
+LogPluginManager: Loaded Plugin Paper2D, From D:/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From D:/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From D:/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From D:/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From D:/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From D:/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From D:/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From D:/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From D:/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From D:/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From D:/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From D:/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From D:/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From D:/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From D:/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From D:/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From D:/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From D:/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From D:/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From D:/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From D:/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From D:/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From D:/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From D:/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From D:/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From D:/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From D:/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From D:/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From D:/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From D:/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From D:/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From D:/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From D:/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From D:/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From D:/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From D:/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From D:/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From D:/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From D:/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From D:/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From D:/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From D:/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From D:/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From D:/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From D:/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From D:/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From D:/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From D:/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From D:/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From D:/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From D:/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From D:/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From D:/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From D:/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From D:/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From D:/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From D:/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From D:/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From D:/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From D:/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From D:/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From D:/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From D:/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From D:/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From D:/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From D:/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From D:/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From D:/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From D:/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From D:/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3224400
+LogInit: Engine Version: 4.14.1-3224400+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Dec  7 2016 02:14:32
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.30-19.58.06:125][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.30-19.58.06:125][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.30-19.58.06:134][  0]LogInit: Computer: DESKTOP-71PO0UI
+[2017.03.30-19.58.06:134][  0]LogInit: User: jerry
+[2017.03.30-19.58.06:134][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.30-19.58.06:134][  0]LogInit: High frequency timer resolution =3.914060 MHz
+[2017.03.30-19.58.06:134][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.03.30-19.58.06:134][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.30-19.58.06:134][  0]LogMemory: Process Physical Memory: 264.98 MB used, 264.98 MB peak
+[2017.03.30-19.58.06:134][  0]LogMemory: Process Virtual Memory: 262.75 MB used, 262.75 MB peak
+[2017.03.30-19.58.06:134][  0]LogMemory: Physical Memory: 4958.86 MB used,  27724.63 MB free, 32683.49 MB total
+[2017.03.30-19.58.06:134][  0]LogMemory: Virtual Memory: 676.63 MB used,  27724.63 MB free, 134217728.00 MB total
+[2017.03.30-19.58.06:264][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.03.30-19.58.06:703][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.30-19.58.06:721][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.03.30-19.58.06:721][  0]LogD3D11RHI:       8144/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.03.30-19.58.06:727][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.03.30-19.58.06:727][  0]LogD3D11RHI:       128/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.30-19.58.06:728][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.30-19.58.06:728][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.30-19.58.06:728][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.30-19.58.06:732][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.30-19.58.06:732][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.30-19.58.06:732][  0]LogWindows: EnumDisplayDevices:
+[2017.03.30-19.58.06:732][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2017.03.30-19.58.06:732][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.03.30-19.58.06:732][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.03.30-19.58.06:733][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.03.30-19.58.06:733][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.30-19.58.06:733][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.30-19.58.06:733][  0]LogWindows:    6. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.30-19.58.06:733][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.03.30-19.58.06:733][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.03.30-19.58.06:733][  0]LogD3D11RHI:   Driver Version: 376.54 (internal:21.21.13.7654, unified:376.54)
+[2017.03.30-19.58.06:733][  0]LogD3D11RHI:      Driver Date: 12-29-2016
+[2017.03.30-19.58.06:733][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.30-19.58.06:743][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.30-19.58.06:757][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.03.30-19.58.06:757][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Intermediate/Shaders/WorkingDirectory/6104/).
+[2017.03.30-19.58.06:757][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jerry/AppData/Local/Temp/UnrealShaderWorkingDir/6D51AA8E493EB662DBF831B4D22865A9/'.
+[2017.03.30-19.58.06:757][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.30-19.58.07:508][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.30-19.58.07:539][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.03.30-19.58.07:570][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.03.30-19.58.07:601][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.03.30-19.58.07:633][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.03.30-19.58.07:664][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.30-19.58.07:696][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.30-19.58.07:727][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.30-19.58.07:751][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.30-19.58.07:783][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.30-19.58.07:815][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.30-19.58.07:845][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.30-19.58.07:877][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.30-19.58.07:909][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.30-19.58.07:940][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.30-19.58.08:001][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.30-19.58.08:001][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.30-19.58.08:020][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.30-19.58.08:074][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.30-19.58.08:095][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.30-19.58.08:126][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.30-19.58.08:157][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.30-19.58.08:188][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.30-19.58.08:218][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.30-19.58.08:219][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.30-19.58.08:417][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.30-19.58.08:455][  0]LogDerivedDataCache: Loaded boot cache 0.04s 50MB C:/Users/jerry/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.30-19.58.08:455][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/jerry/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.03.30-19.58.08:455][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.30-19.58.08:455][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.30-19.58.08:455][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.30-19.58.08:455][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.30-19.58.08:468][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.30-19.58.08:480][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jerry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.30-19.58.08:619][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.30-19.58.08:620][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.30-19.58.08:746][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.03.30-19.58.08:768][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.03.30-19.58.08:791][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.03.30-19.58.08:791][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.03.30-19.58.08:792][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.30-19.58.09:121][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: dicomvisual, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3438762601
+[2017.03.30-19.58.09:162][  0]LogAssetRegistry: FAssetRegistry took 0.0209 seconds to start up
+[2017.03.30-19.58.09:194][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.020709 seconds
+[2017.03.30-19.58.09:198][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.03.30-19.58.09:198][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.03.30-19.58.09:198][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.30-19.58.09:229][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.30-19.58.09:595][  0]LogSlate: Using Freetype 2.6.0
+[2017.03.30-19.58.09:595][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.30-19.58.09:595][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.30-19.58.10:103][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.30-19.58.10:128][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.30-19.58.10:314][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.30-19.58.10:516][  0]SourceControl: Info Source control is disabled
+[2017.03.30-19.58.10:537][  0]SourceControl: Info Source control is disabled
+[2017.03.30-19.58.10:561][  0]SourceControl: Info Source control is disabled
+[2017.03.30-19.58.10:584][  0]SourceControl: Info Source control is disabled
+[2017.03.30-19.58.11:223][  0]LogEngine: Initializing Engine...
+[2017.03.30-19.58.11:239][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-F8B78CF2
+[2017.03.30-19.58.11:387][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.30-19.58.11:430][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-19.58.11:440][  0]LogInit: FAudioDevice initialized.
+[2017.03.30-19.58.11:458][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/jerry/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.03.30-19.58.11:463][  0]LogInit: Texture streaming: Enabled
+[2017.03.30-19.58.11:564][  0]LogInit: Transaction tracking system initialized
+[2017.03.30-19.58.11:750][  0]BlueprintLog: New page: Editor Load
+[2017.03.30-19.58.12:215][  0]LocalizationService: Info Localization service is disabled
+[2017.03.30-19.58.12:570][  0]LogConsoleResponse:Display: 
+[2017.03.30-19.58.12:664][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.30-19.58.12:664][  0]LogCook:Display: Mobile HDR setting 0
+[2017.03.30-19.58.13:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/' took 0.01s
+[2017.03.30-19.58.13:134][  0]SourceControl: Info Source control is disabled
+[2017.03.30-19.58.13:134][  0]Cmd: MAP LOAD FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.30-19.58.13:134][  0]LightingResults: New page: Lighting Build
+[2017.03.30-19.58.13:155][  0]MapCheck: New page: Map Check
+[2017.03.30-19.58.13:155][  0]LightingResults: New page: Lighting Build
+[2017.03.30-19.58.13:318][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.03.30-19.58.13:318][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2017.03.30-19.58.13:318][  0]LoadErrors:Error: Error /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2017.03.30-19.58.13:320][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.03.30-19.58.13:320][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2017.03.30-19.58.13:320][  0]LoadErrors:Error: Error /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2017.03.30-19.58.13:322][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.03.30-19.58.13:323][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.03.30-19.58.13:323][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.03.30-19.58.13:323][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.03.30-19.58.13:329][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.03.30-19.58.13:329][  0]LoadErrors: Info Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.03.30-19.58.13:330][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.03.30-19.58.13:330][  0]LoadErrors: Info Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.03.30-19.58.13:434][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.03.30-19.58.13:438][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.03.30-19.58.13:438][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.03.30-19.58.13:438][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.03.30-19.58.13:439][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.03.30-19.58.13:441][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.30-19.58.13:441][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.30-19.58.13:463][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 21.354ms to complete.
+[2017.03.30-19.58.13:463][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.329
+[2017.03.30-19.58.13:518][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.30-19.58.13:569][  0]LogCollectionManager: Loaded 0 collections in 0.000652 seconds
+[2017.03.30-19.58.13:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/Collections/' took 0.01s
+[2017.03.30-19.58.13:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/Developers/jerry/Collections/' took 0.01s
+[2017.03.30-19.58.13:626][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/Collections/' took 0.01s
+[2017.03.30-19.58.13:626][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.30-19.58.13:632][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 2190 classes and 428 folders.
+[2017.03.30-19.58.13:653][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.30-19.58.13:653][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.30-19.58.13:653][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 13 classes and 0 folders.
+[2017.03.30-19.58.13:684][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.03.30-19.58.13:708][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.03.30-19.58.13:729][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.03.30-19.58.13:777][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.30-19.58.13:781][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.30-19.58.13:825][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.03.30-19.58.13:825][  0]LogLoad: (Engine Initialization) Total time: 8.59 seconds
+[2017.03.30-19.58.13:825][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.09 seconds
+[2017.03.30-19.58.13:825][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.30-19.58.13:825][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.30-19.58.13:834][  0]LogOcInput: OculusInput pre-init called
+[2017.03.30-19.58.13:847][  0]LogAssetRegistry: Asset discovery search completed in 4.7056 seconds
+[2017.03.30-19.58.13:847][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.30-19.58.13:847][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000012 seconds (updated 0 objects)
+[2017.03.30-19.58.13:849][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.30-19.58.13:984][  0]LogRenderer: Reallocating scene render targets to support 728x540 NumSamples 1 (Frame:2).
+[2017.03.30-19.58.37:209][776]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: VRMap, Actor: /Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_1
+[2017.03.30-19.58.37:211][776]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-19.58.37:213][776]LogSpawn:Warning: UWorld::DestroyActor: World has no context! World: VRMap, Actor: /Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_3
+[2017.03.30-19.58.37:236][776]Cmd: MAP LOAD FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.30-19.58.37:236][776]LightingResults: New page: Lighting Build
+[2017.03.30-19.58.37:237][776]LoadErrors: New page: Loading map: VRMap.umap
+[2017.03.30-19.58.37:242][776]MapCheck: New page: Map Check
+[2017.03.30-19.58.37:242][776]LightingResults: New page: Lighting Build
+[2017.03.30-19.58.37:286][776]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.30-19.58.37:305][776]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.30-19.58.37:328][776]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 22.923ms to complete.
+[2017.03.30-19.58.37:328][776]LogFileHelpers: Loading map 'VRMap' took 0.092
+[2017.03.30-19.58.53:463][673]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 111 classes and 0 folders.
+[2017.03.30-19.59.00:598][463]LogRenderer: Reallocating scene render targets to support 760x668 NumSamples 1 (Frame:5242).
+[2017.03.30-19.59.14:746][111]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-19.59.22:328][ 18]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-19.59.28:174][719]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_12.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-19.59.38:517][958]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_14.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-19.59.42:487][434]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_16.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-19.59.49:948][329]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_18.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-19.59.57:068][183]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_20.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.00.09:164][634]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.00.16:903][560]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.00.16:977][560]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.00.20:827][ 19]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.00.23:712][365]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.00.32:872][464]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.00.32:936][464]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.00.33:812][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/MenuWidget" FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset" SILENT=true
+[2017.03.30-20.00.33:836][563]LogSavePackage: Save=14.99ms
+[2017.03.30-20.00.33:836][563]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/MenuWidget8DFAA4FC4AFBE62B258C9188E33C572B.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset'
+[2017.03.30-20.00.33:838][563]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset
+[2017.03.30-20.00.35:881][789]LogSavePackage: Save=78.91ms
+[2017.03.30-20.00.35:881][789]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap4379CEDB4DE190F2BE0E9B9B3FD8DC27.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.00.35:883][789]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.01.05:122][295]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.01.05:137][295]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.01.05:417][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.01.05:422][295]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:01:05 AM)
+[2017.03.30-20.01.05:422][295]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.01.05:445][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023549s)
+[2017.03.30-20.01.05:446][295]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.01.05:446][295]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2017.03.30-20.01.05:446][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.024390s)
+[2017.03.30-20.01.05:499][295]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.01.05:507][295]LogInit: FAudioDevice initialized.
+[2017.03.30-20.01.05:603][295]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.01.05:613][295]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.01.05
+[2017.03.30-20.01.05:613][295]LogWorld: Bringing up level for play took: 0.008941
+[2017.03.30-20.01.05:715][295]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.03.30-20.01.05:719][295]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap 1.459
+[2017.03.30-20.01.05:719][295]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.01.05:781][296]LogRenderer: Reallocating scene render targets to support 3024x1680 NumSamples 1 (Frame:28102).
+[2017.03.30-20.01.54:704][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.01.54:734][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.02.38:004][ 78]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.02.47:724][244]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.02.51:055][643]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.02.57:510][415]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.03.03:463][129]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.03.13:439][323]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.30-20.03.20:100][115]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.03.20:169][115]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.03.21:215][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/MenuWidget" FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset" SILENT=true
+[2017.03.30-20.03.21:233][234]LogSavePackage: Save=14.66ms
+[2017.03.30-20.03.21:233][234]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/MenuWidget125E5CD948C83297912E4888AA02F52D.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset'
+[2017.03.30-20.03.21:235][234]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset
+[2017.03.30-20.03.36:381][996]LogSavePackage: Save=73.22ms
+[2017.03.30-20.03.36:381][996]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapA1F939FA416C33849D7A158645B05DCC.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.03.36:383][996]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.04.14:250][450]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.04.15:137][529]LogSavePackage: Save=41.77ms
+[2017.03.30-20.04.15:137][529]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacter9DA152CA4D8AA63C948B84A46285B9E6.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.04.15:139][529]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.04.18:323][892]LogSavePackage: Save=73.44ms
+[2017.03.30-20.04.18:323][892]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapB3CCE9E84D30CB65E258B58731D96D25.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.04.18:326][892]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.04.19:516][ 30]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.04.19:528][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.04.19:528][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.04.19:528][ 30]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:04:19 AM)
+[2017.03.30-20.04.19:528][ 30]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.04.19:543][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015040s)
+[2017.03.30-20.04.19:544][ 30]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.04.19:544][ 30]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2017.03.30-20.04.19:544][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.015921s)
+[2017.03.30-20.04.19:597][ 30]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.04.19:605][ 30]LogInit: FAudioDevice initialized.
+[2017.03.30-20.04.19:707][ 30]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.04.19:709][ 30]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.04.19
+[2017.03.30-20.04.19:709][ 30]LogWorld: Bringing up level for play took: 0.001268
+[2017.03.30-20.04.19:714][ 30]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.545
+[2017.03.30-20.04.19:714][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.04.30:521][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.04.30:552][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.05.13:668][649]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_22.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.13:670][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_80.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.17:023][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_100.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.17:025][ 16]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_26.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.17:034][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_120.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.17:036][ 16]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_30.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.19:936][363]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.05.20:003][363]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.20:005][363]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.20:539][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/MenuWidget" FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset" SILENT=true
+[2017.03.30-20.05.20:557][422]LogSavePackage: Save=15.03ms
+[2017.03.30-20.05.20:557][422]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/MenuWidgetCA33B2834453638E6673F6A4AB8CA176.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset'
+[2017.03.30-20.05.20:560][422]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset
+[2017.03.30-20.05.33:117][904]LogSavePackage: Save=73.98ms
+[2017.03.30-20.05.33:117][904]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap503D6ABE4A53A937970E1F8A36073C07.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.05.33:120][904]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.05.58:136][893]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_51.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.05.58:137][893]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_7.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.01:539][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_65.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.01:541][299]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_9.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.05:164][731]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_79.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.05:166][731]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_11.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.07:343][992]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_93.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.07:345][992]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.14:582][853]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_107.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.14:584][853]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_15.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.26:120][234]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_129.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.26:122][234]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_17.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.27:985][457]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.30-20.06.27:992][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_147.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.27:994][457]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_19.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.31:383][860]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_161.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.31:385][860]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_21.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.36:482][468]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_175.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.36:484][468]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_23.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.37:968][645]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_189.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.37:969][645]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_25.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.40:780][981]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.30-20.06.46:240][632]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.06.46:314][632]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_37.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.46:316][632]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.06.47:031][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/MenuWidget" FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset" SILENT=true
+[2017.03.30-20.06.47:055][712]LogSavePackage: Save=15.74ms
+[2017.03.30-20.06.47:055][712]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/MenuWidget0B32339A49B6F614AE8DF180F1A4B071.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset'
+[2017.03.30-20.06.47:057][712]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset
+[2017.03.30-20.06.50:069][ 55]LogSavePackage: Save=72.95ms
+[2017.03.30-20.06.50:069][ 55]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap3F475B414ED39337A72C9191E0D979DF.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.06.50:071][ 55]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.07.06:786][  3]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.07.07:555][ 67]LogSavePackage: Save=44.14ms
+[2017.03.30-20.07.07:555][ 67]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacterFE3C3D5D47D1323023B1EB9CB86E42F2.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.07.07:557][ 67]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.07.09:468][277]LogSavePackage: Save=74.02ms
+[2017.03.30-20.07.09:468][277]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapD5EB6B6C44D588F27EE287A050BE7923.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.07.09:470][277]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.07.11:233][485]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.07.11:243][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.07.11:243][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.07.11:243][485]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:07:11 AM)
+[2017.03.30-20.07.11:243][485]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.07.11:258][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014580s)
+[2017.03.30-20.07.11:258][485]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.07.11:259][485]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2017.03.30-20.07.11:259][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.015452s)
+[2017.03.30-20.07.11:312][485]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.07.11:320][485]LogInit: FAudioDevice initialized.
+[2017.03.30-20.07.11:421][485]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.07.11:423][485]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.07.11
+[2017.03.30-20.07.11:423][485]LogWorld: Bringing up level for play took: 0.001473
+[2017.03.30-20.07.11:428][485]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap 1.168
+[2017.03.30-20.07.11:428][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.07.22:991][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.07.23:022][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.07.58:510][170]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.30-20.08.04:433][874]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.08.04:505][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_90.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.08.04:507][874]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.08.04:508][874]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_92.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.08.05:954][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/MenuWidget" FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset" SILENT=true
+[2017.03.30-20.08.05:974][ 42]LogSavePackage: Save=15.02ms
+[2017.03.30-20.08.05:974][ 42]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/MenuWidget9291AF094D812CC9AAF0B78B4BF53DD3.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset'
+[2017.03.30-20.08.05:982][ 42]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset
+[2017.03.30-20.08.08:598][341]LogSavePackage: Save=75.66ms
+[2017.03.30-20.08.08:598][341]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap2B7C9E8849D09208AA3B64BB780A1E6E.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.08.08:600][341]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.08.09:760][476]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.08.10:650][553]LogSavePackage: Save=41.25ms
+[2017.03.30-20.08.10:650][553]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacterB721CDEB4042614D4AEEF8A50617FBEA.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.08.10:651][553]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.08.21:841][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.08.22:238][940]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.08.24:029][148]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.30-20.08.25:115][278]Cmd: SELECT NONE
+[2017.03.30-20.08.26:579][415]Cmd: TRANSACTION UNDO
+[2017.03.30-20.08.26:579][415]LogEditorTransaction: Undo Select None
+[2017.03.30-20.08.27:311][495]Cmd: TRANSACTION UNDO
+[2017.03.30-20.08.27:311][495]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.08.28:134][588]Cmd: TRANSACTION UNDO
+[2017.03.30-20.08.28:134][588]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.08.30:618][886]Cmd: TRANSACTION REDO
+[2017.03.30-20.08.30:618][886]LogEditorTransaction: Redo Clicking on Actors
+[2017.03.30-20.08.31:292][965]Cmd: TRANSACTION REDO
+[2017.03.30-20.08.31:292][965]LogEditorTransaction: Redo Clicking on Actors
+[2017.03.30-20.08.31:898][ 31]Cmd: TRANSACTION REDO
+[2017.03.30-20.08.31:898][ 31]LogEditorTransaction: Redo Select None
+[2017.03.30-20.08.44:113][490]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.08.45:854][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.08.47:045][828]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.08.47:603][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.08.48:470][986]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.08.48:997][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.08.52:796][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.30-20.08.55:078][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.09.00:186][357]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.30-20.09.02:294][609]LogEditorViewport: Clicking on Actor (LMB): MenuWidget_C (MenuWidget2)
+[2017.03.30-20.09.02:824][672]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.30-20.09.04:475][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2017.03.30-20.09.04:843][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.30-20.09.06:222][ 74]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.09.06:594][111]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.30-20.09.21:049][842]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.09.21:568][904]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.09.30:594][976]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.09.34:753][473]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.34:753][473]LogEditorTransaction: Undo Move Actors
+[2017.03.30-20.09.36:303][624]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.36:303][624]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.37:146][725]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.37:146][725]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.37:547][773]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.37:547][773]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.37:939][820]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.37:939][820]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.38:282][861]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.38:282][861]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.38:576][896]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.38:576][896]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.38:894][934]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.38:894][934]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.39:252][977]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.39:252][977]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.39:560][  9]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.39:560][  9]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.40:014][ 57]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.40:014][ 57]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.40:456][110]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.40:456][110]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.40:972][167]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.40:972][167]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.41:470][220]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.41:470][220]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.41:851][261]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.41:851][261]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.42:212][298]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.42:212][298]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.42:583][338]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.42:583][338]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.42:932][373]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.42:932][373]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.43:299][412]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.43:299][412]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.43:683][451]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.43:683][451]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.44:126][501]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.44:126][501]LogEditorTransaction: Undo Select None
+[2017.03.30-20.09.44:710][564]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.44:710][564]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.45:277][627]Cmd: TRANSACTION UNDO
+[2017.03.30-20.09.45:277][627]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.30-20.09.50:961][297]LogSavePackage: Save=74.50ms
+[2017.03.30-20.09.50:961][297]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapA790E426419D5AF1A6E327B43AE415A4.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.09.50:963][297]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.10.01:888][600]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.10.01:960][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_92.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.10.01:961][600]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_94.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.10.01:963][600]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_5.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.10.02:451][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/MenuWidget" FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset" SILENT=true
+[2017.03.30-20.10.02:469][651]LogSavePackage: Save=14.29ms
+[2017.03.30-20.10.02:469][651]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/MenuWidget4DA451BE4CB31C865D1DA8832B5D60F0.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset'
+[2017.03.30-20.10.02:471][651]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset
+[2017.03.30-20.10.04:226][847]LogSavePackage: Save=74.18ms
+[2017.03.30-20.10.04:226][847]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapAAE44F104165052C1C9BAE8DBEA01A72.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.10.04:228][847]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.10.05:575][  5]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.10.06:418][ 76]LogSavePackage: Save=42.56ms
+[2017.03.30-20.10.06:418][ 76]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacterAC94773B4D9DF46615C957A5E3D2E73D.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.10.06:419][ 76]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.10.08:031][256]LogSavePackage: Save=73.27ms
+[2017.03.30-20.10.08:031][256]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapBA5E23BF4AA66C91323B19806786270A.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.10.08:034][256]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.10.11:383][654]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.10.11:395][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.10.11:396][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.10.11:396][654]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:10:11 AM)
+[2017.03.30-20.10.11:396][654]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.10.11:410][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014262s)
+[2017.03.30-20.10.11:410][654]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.10.11:411][654]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2017.03.30-20.10.11:411][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.015180s)
+[2017.03.30-20.10.11:464][654]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.10.11:472][654]LogInit: FAudioDevice initialized.
+[2017.03.30-20.10.11:574][654]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.10.11:576][654]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.10.11
+[2017.03.30-20.10.11:576][654]LogWorld: Bringing up level for play took: 0.001338
+[2017.03.30-20.10.11:581][654]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.678
+[2017.03.30-20.10.11:581][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.10.52:042][481]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.10.52:073][481]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.11.02:953][776]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_126.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.11.02:954][776]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_128.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.11.02:956][776]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_13.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.11.04:257][931]BlueprintLog: New page: Compile MenuWidget
+[2017.03.30-20.11.04:545][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_27.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.11.04:547][931]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_3.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.11.04:548][931]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.DESTROYED_MenuWidget_C_CHILDACTOR_80.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.30-20.11.04:929][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/MenuWidget" FILE="C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset" SILENT=true
+[2017.03.30-20.11.04:940][975]LogSavePackage: Save=7.64ms
+[2017.03.30-20.11.04:940][975]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/MenuWidget622ACC7A41ADC1B23F87C89B099DD0DE.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset'
+[2017.03.30-20.11.04:942][975]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/MenuWidget.uasset
+[2017.03.30-20.11.06:690][172]LogSavePackage: Save=77.02ms
+[2017.03.30-20.11.06:690][172]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap4B7773A34B5F53DB8D6FF999F60B9612.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.11.06:692][172]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.11.34:847][532]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.11.36:934][756]LogSavePackage: Save=43.99ms
+[2017.03.30-20.11.36:934][756]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacter9169FD0F477A692EC85532A50819AD5C.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.11.36:935][756]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.11.38:250][901]LogSavePackage: Save=74.98ms
+[2017.03.30-20.11.38:250][901]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapB2E78B0E4C7C2B7CCC1B67972C9FD36F.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.11.38:253][901]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.12.39:524][965]BlueprintLog: New page: Compile FirstPersonProjectile
+[2017.03.30-20.12.40:666][ 15]LogSavePackage: Save=22.99ms
+[2017.03.30-20.12.40:666][ 15]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonProjectile6A7717F742B93A0597CCF79E66F7067F.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2017.03.30-20.12.40:668][ 15]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2017.03.30-20.12.42:765][249]LogSavePackage: Save=74.67ms
+[2017.03.30-20.12.42:765][249]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap3AEE2D154A8621D3F78100BF04D674F0.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.12.42:768][249]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.12.48:325][912]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.12.48:340][912]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.12.48:340][912]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.12.48:340][912]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:12:48 AM)
+[2017.03.30-20.12.48:340][912]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.12.48:355][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014795s)
+[2017.03.30-20.12.48:355][912]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.12.48:356][912]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2017.03.30-20.12.48:356][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.015737s)
+[2017.03.30-20.12.48:409][912]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.12.48:417][912]LogInit: FAudioDevice initialized.
+[2017.03.30-20.12.48:516][912]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.12.48:518][912]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.12.48
+[2017.03.30-20.12.48:518][912]LogWorld: Bringing up level for play took: 0.001330
+[2017.03.30-20.12.48:523][912]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap 0.264
+[2017.03.30-20.12.48:524][912]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.13.19:727][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.13.19:759][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.13.40:681][982]BlueprintLog: New page: Compile FirstPersonProjectile
+[2017.03.30-20.13.41:457][ 58]LogSavePackage: Save=22.87ms
+[2017.03.30-20.13.41:457][ 58]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonProjectileE9243D004EC154494456199DB2E9D230.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2017.03.30-20.13.41:459][ 58]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2017.03.30-20.13.44:165][368]LogSavePackage: Save=76.58ms
+[2017.03.30-20.13.44:165][368]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap6454507D42F08FFC543731B0448113F4.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.13.44:167][368]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.13.46:053][591]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.13.46:067][591]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.13.46:067][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.13.46:067][591]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:13:46 AM)
+[2017.03.30-20.13.46:067][591]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.13.46:081][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014424s)
+[2017.03.30-20.13.46:082][591]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.13.46:082][591]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2017.03.30-20.13.46:082][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.015322s)
+[2017.03.30-20.13.46:136][591]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.13.46:144][591]LogInit: FAudioDevice initialized.
+[2017.03.30-20.13.46:240][591]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.13.46:242][591]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.13.46
+[2017.03.30-20.13.46:242][591]LogWorld: Bringing up level for play took: 0.001381
+[2017.03.30-20.13.46:247][591]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.012
+[2017.03.30-20.13.46:248][591]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.14.14:382][904]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.14.14:415][904]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.14.50:358][187]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.30-20.14.50:370][187]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_13:PersistentLevel.FirstPersonCharacter_C_70.CharacterMesh0) Component already registered.
+[2017.03.30-20.14.50:371][187]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.FirstPersonCharacter_C_1.Arrow) Component already registered.
+[2017.03.30-20.14.50:373][187]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_13:PersistentLevel.FirstPersonCharacter_C_70.CharMoveComp) Component already registered.
+[2017.03.30-20.14.50:374][187]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_13:PersistentLevel.FirstPersonCharacter_C_70.Arrow) Component already registered.
+[2017.03.30-20.14.50:375][187]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.FirstPersonCharacter_C_1.CharacterMesh0) Component already registered.
+[2017.03.30-20.14.50:377][187]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.FirstPersonCharacter_C_1.CharMoveComp) Component already registered.
+[2017.03.30-20.15.08:227][312]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.15.09:149][394]LogSavePackage: Save=43.99ms
+[2017.03.30-20.15.09:149][394]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacter106A8D4B477595012E654486555F8D33.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.15.09:152][394]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.15.10:368][527]LogSavePackage: Save=78.83ms
+[2017.03.30-20.15.10:368][527]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap867B76294C312FBB9C2DFAADE9A6008F.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.15.10:371][527]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.15.11:692][681]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.15.11:706][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.15.11:706][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.15.11:706][681]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:15:11 AM)
+[2017.03.30-20.15.11:706][681]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.15.11:720][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014494s)
+[2017.03.30-20.15.11:721][681]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.15.11:721][681]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2017.03.30-20.15.11:721][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.015282s)
+[2017.03.30-20.15.11:775][681]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.15.11:783][681]LogInit: FAudioDevice initialized.
+[2017.03.30-20.15.11:888][681]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.15.11:890][681]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.15.11
+[2017.03.30-20.15.11:890][681]LogWorld: Bringing up level for play took: 0.001322
+[2017.03.30-20.15.11:895][681]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.365
+[2017.03.30-20.15.11:895][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.16.50:078][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.16.50:113][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.18.09:088][634]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.18.09:100][634]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.18.09:100][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.18.09:100][634]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:18:09 AM)
+[2017.03.30-20.18.09:100][634]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.18.09:115][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014910s)
+[2017.03.30-20.18.09:116][634]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.18.09:116][634]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2017.03.30-20.18.09:116][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.015901s)
+[2017.03.30-20.18.09:172][634]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.18.09:180][634]LogInit: FAudioDevice initialized.
+[2017.03.30-20.18.09:277][634]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.18.09:279][634]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.18.09
+[2017.03.30-20.18.09:279][634]LogWorld: Bringing up level for play took: 0.001369
+[2017.03.30-20.18.09:283][634]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap 1.024
+[2017.03.30-20.18.09:284][634]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.18.25:847][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.18.25:880][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.18.39:967][ 46]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.18.40:798][102]LogSavePackage: Save=41.62ms
+[2017.03.30-20.18.40:798][102]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacterE9AA52DE416883175E4775AC35665984.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.18.40:800][102]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.18.45:790][700]LogEditorViewport: Clicking Background
+[2017.03.30-20.18.46:348][766]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.18.47:226][864]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.18.47:825][935]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.18.48:180][943]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2017.03.30-20.18.50:272][190]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2017.03.30-20.18.50:380][202]LogEditorViewport: Clicking on Actor (double click): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.18.51:037][278]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.18.51:110][286]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2017.03.30-20.18.57:918][ 78]LogSavePackage: Save=76.41ms
+[2017.03.30-20.18.57:918][ 78]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapDBECD1B54D0952EA5A03A6A7BC7DA87D.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.18.57:920][ 78]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.19.02:823][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.19.04:106][811]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.19.06:299][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.19.19:175][597]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.19.19:188][597]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.19.19:189][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.19.19:189][597]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:19:19 AM)
+[2017.03.30-20.19.19:189][597]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.19.19:200][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011020s)
+[2017.03.30-20.19.19:200][597]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.19.19:201][597]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2017.03.30-20.19.19:201][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.012048s)
+[2017.03.30-20.19.19:259][597]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.19.19:267][597]LogInit: FAudioDevice initialized.
+[2017.03.30-20.19.19:370][597]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.19.19:372][597]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.19.19
+[2017.03.30-20.19.19:372][597]LogWorld: Bringing up level for play took: 0.001009
+[2017.03.30-20.19.19:377][597]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap 1.117
+[2017.03.30-20.19.19:377][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.19.30:508][583]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.19.30:552][583]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.19.45:287][342]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.19.45:370][344]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2017.03.30-20.19.45:986][413]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.19.46:074][416]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2017.03.30-20.19.56:927][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.30-20.20.27:804][394]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.20.28:708][451]LogSavePackage: Save=41.39ms
+[2017.03.30-20.20.28:708][451]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacter921C287043EAFB9B668D93B9966537AB.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.20.28:710][451]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.20.30:135][609]LogSavePackage: Save=74.23ms
+[2017.03.30-20.20.30:135][609]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMap2D7206094D17C7C6609C9F85460CB1AB.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.20.30:138][609]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.20.31:585][778]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.20.31:598][778]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.20.31:598][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.20.31:598][778]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:20:31 AM)
+[2017.03.30-20.20.31:598][778]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.20.31:609][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010319s)
+[2017.03.30-20.20.31:609][778]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.20.31:609][778]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2017.03.30-20.20.31:609][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.011257s)
+[2017.03.30-20.20.31:665][778]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.20.31:673][778]LogInit: FAudioDevice initialized.
+[2017.03.30-20.20.31:769][778]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.20.31:771][778]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.20.31
+[2017.03.30-20.20.31:771][778]LogWorld: Bringing up level for play took: 0.001041
+[2017.03.30-20.20.31:775][778]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.484
+[2017.03.30-20.20.31:776][778]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.20.50:096][410]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.20.50:141][410]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.21.32:708][412]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.21.33:600][462]LogSavePackage: Save=42.82ms
+[2017.03.30-20.21.33:600][462]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacterE026BA3546A61BB81D6FA78855F498C9.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.21.33:603][462]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.21.35:043][623]LogSavePackage: Save=74.46ms
+[2017.03.30-20.21.35:043][623]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapFCC443344E419406EC6FB4A555A8AB3E.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.21.35:045][623]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.21.36:992][851]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.21.37:005][851]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.21.37:005][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.21.37:005][851]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:21:37 AM)
+[2017.03.30-20.21.37:005][851]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.21.37:017][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011769s)
+[2017.03.30-20.21.37:017][851]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.21.37:017][851]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2017.03.30-20.21.37:017][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.012582s)
+[2017.03.30-20.21.37:075][851]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.21.37:083][851]LogInit: FAudioDevice initialized.
+[2017.03.30-20.21.37:186][851]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.21.37:187][851]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.21.37
+[2017.03.30-20.21.37:188][851]LogWorld: Bringing up level for play took: 0.001075
+[2017.03.30-20.21.37:193][851]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap 0.934
+[2017.03.30-20.21.37:193][851]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.21.53:701][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.21.53:745][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.22.59:014][692]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.22.59:084][693]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Floor)
+[2017.03.30-20.22.59:798][774]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.03.30-20.22.59:882][775]LogEditorViewport: Clicking on Component (LMB): CameraComponent (FirstPersonCamera)
+[2017.03.30-20.23.06:397][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2017.03.30-20.23.07:611][691]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.23.07:625][691]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.23.07:625][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.23.07:625][691]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:23:07 AM)
+[2017.03.30-20.23.07:625][691]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.23.07:636][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010978s)
+[2017.03.30-20.23.07:636][691]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.23.07:636][691]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2017.03.30-20.23.07:636][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.011664s)
+[2017.03.30-20.23.07:692][691]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.23.07:701][691]LogInit: FAudioDevice initialized.
+[2017.03.30-20.23.07:802][691]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.23.07:803][691]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.23.07
+[2017.03.30-20.23.07:803][691]LogWorld: Bringing up level for play took: 0.001002
+[2017.03.30-20.23.07:809][691]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.451
+[2017.03.30-20.23.07:809][691]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.23.42:109][755]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.23.42:151][755]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.24.07:399][762]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.24.08:077][778]LogSavePackage: Save=41.87ms
+[2017.03.30-20.24.08:077][778]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacterEED4A8A34863B2EF50A74B87E6588CD0.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.24.08:079][778]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.24.12:271][267]LogSavePackage: Save=73.64ms
+[2017.03.30-20.24.12:271][267]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapB1549B874D380B98D82FCE82CAA7CC65.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.24.12:274][267]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.24.13:363][392]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.24.13:376][392]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.24.13:376][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.24.13:376][392]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:24:13 AM)
+[2017.03.30-20.24.13:376][392]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.24.13:387][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011029s)
+[2017.03.30-20.24.13:388][392]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.24.13:388][392]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2017.03.30-20.24.13:388][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.011889s)
+[2017.03.30-20.24.13:443][392]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.24.13:450][392]LogInit: FAudioDevice initialized.
+[2017.03.30-20.24.13:555][392]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.24.13:557][392]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.24.13
+[2017.03.30-20.24.13:557][392]LogWorld: Bringing up level for play took: 0.001140
+[2017.03.30-20.24.13:561][392]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.698
+[2017.03.30-20.24.13:562][392]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.24.23:800][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.24.23:841][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.24.42:205][479]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.24.42:878][533]LogSavePackage: Save=41.50ms
+[2017.03.30-20.24.42:878][533]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/FirstPersonCharacter81DA1A804091E9F6D5DA9B842A897DC1.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.03.30-20.24.42:881][533]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.03.30-20.24.44:984][772]LogSavePackage: Save=74.32ms
+[2017.03.30-20.24.44:984][772]LogSavePackage: Moving 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Saved/VRMapB86333A847476D0B73D1F5BC5EB43393.tmp' to 'C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap'
+[2017.03.30-20.24.44:986][772]LogSavePackage:Display: Finished SavePackage C:/Users/jerry/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap
+[2017.03.30-20.24.46:684][973]LogTemp: Repeting last play command: VR Preview
+[2017.03.30-20.24.46:697][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.24.46:697][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.30-20.24.46:697][973]PIE: New page: PIE session: VRMap (Mar 30, 2017, 4:24:46 AM)
+[2017.03.30-20.24.46:697][973]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.03.30-20.24.46:708][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011542s)
+[2017.03.30-20.24.46:709][973]LogAIModule: Creating AISystem for world VRMap
+[2017.03.30-20.24.46:709][973]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2017.03.30-20.24.46:709][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.012449s)
+[2017.03.30-20.24.46:762][973]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.03.30-20.24.46:770][973]LogInit: FAudioDevice initialized.
+[2017.03.30-20.24.46:870][973]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.03.30-20.24.46:872][973]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.03.30-12.24.46
+[2017.03.30-20.24.46:872][973]LogWorld: Bringing up level for play took: 0.000926
+[2017.03.30-20.24.46:877][973]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap 0.617
+[2017.03.30-20.24.46:877][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.25.17:532][710]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.25.17:574][710]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.03.30-20.27.09:548][446]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.27.09:569][446]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.03.30-20.27.09:569][446]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.03.30-20.27.09:569][446]LogBlueprint:Error: [Compiler FirstPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.03.30-20.27.10:050][446]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.03.30-20.27.10:050][446]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.03.30-20.27.10:050][446]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2017.03.30-20.27.10:050][446]LogBlueprint:Warning: [Compiler FirstPersonCharacter] Warning [1744.82] Compile of FirstPersonCharacter failed. 3 Fatal Issue(s) 0 Warning(s) [in 502 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2017.03.30-20.27.18:576][467]LogEditorTransaction: Undo Remove Components
+[2017.03.30-20.27.19:742][603]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.03.30-20.27.19:773][603]LogWorld: --- Actors Currently in /Engine/Transient.World_8:PersistentLevel ---
+[2017.03.30-20.27.19:773][603]LogWorld:   /Engine/Transient.World_8:PersistentLevel.WorldSettings
+[2017.03.30-20.27.19:773][603]LogWorld:   /Engine/Transient.World_8:PersistentLevel.Brush_8
+[2017.03.30-20.27.19:773][603]LogWorld:   /Engine/Transient.World_8:PersistentLevel.DefaultPhysicsVolume_8
+[2017.03.30-20.27.19:773][603]LogWorld:   /Engine/Transient.World_8:PersistentLevel.ParticleEventManager_8
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:773][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   NONE
+[2017.03.30-20.27.19:774][603]LogWorld:   /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_1
+[2017.03.30-20.27.19:774][603]LogWorld:   /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+[2017.03.30-20.27.20:232][603]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.458 s
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: === Handled ensure: ===
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: 
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\Engine\Private\World.cpp] [Line: 1492]
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: Could not remove actor /Engine/Transient.World_8:PersistentLevel.REINST_FirstPersonCharacter_C_0 from world (check level is /Engine/Transient.World_8:PersistentLevel)
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: Stack: 
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Engine.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-UnrealEd.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Kismet.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Kismet.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Kismet.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Slate.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: USER32.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: USER32.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor-Core.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: UE4Editor.exe
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: KERNEL32.DLL
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: ntdll.dll
+[2017.03.30-20.27.20:232][603]LogOutputDevice:Error: 
+[2017.03.30-20.27.20:237][603]LogStats:                SubmitErrorReport -  0.000 s
