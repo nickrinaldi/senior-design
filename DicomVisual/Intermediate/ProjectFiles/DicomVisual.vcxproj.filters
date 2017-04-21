@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DicomVisual.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8289C3C3-C4EF-43C1-90F5-CD4975C65E65}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DicomVisual.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DicomVisualEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8829148D-5343-4A27-9F44-C283852D0F85}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DicomVisual">
+      <UniqueIdentifier>{9D6133E2-AD03-41A8-A270-D5F76C10B1DB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DicomVisual\DicomParserLibrary.cpp">
+      <Filter>Source\DicomVisual</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DicomVisual\DicomParserLibrary.h">
+      <Filter>Source\DicomVisual</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\DicomVisual\DicomVisual.Build.cs">
+      <Filter>Source\DicomVisual</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DicomVisual\DicomVisual.cpp">
+      <Filter>Source\DicomVisual</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DicomVisual\DicomVisual.h">
+      <Filter>Source\DicomVisual</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\DicomVisual\PixelActor.h">
+      <Filter>Source\DicomVisual</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\DicomVisual\PixelActor.cpp">
+      <Filter>Source\DicomVisual</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
