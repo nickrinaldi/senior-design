@@ -12,12 +12,12 @@ struct FImageStruct;
 #endif
 #define DICOMVISUAL_DicomParserLibrary_generated_h
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_18_GENERATED_BODY \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_22_GENERATED_BODY \
 	friend DICOMVISUAL_API class UScriptStruct* Z_Construct_UScriptStruct_FImageStruct(); \
 	DICOMVISUAL_API static class UScriptStruct* StaticStruct();
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_RPC_WRAPPERS \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execgetPixels) \
 	{ \
@@ -36,7 +36,7 @@ struct FImageStruct;
 	}
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execgetPixels) \
 	{ \
@@ -55,7 +55,7 @@ struct FImageStruct;
 	}
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_INCLASS_NO_PURE_DECLS \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesUDicomParserLibrary(); \
 	friend DICOMVISUAL_API class UClass* Z_Construct_UClass_UDicomParserLibrary(); \
@@ -66,7 +66,7 @@ struct FImageStruct;
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_INCLASS \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_INCLASS \
 	private: \
 	static void StaticRegisterNativesUDicomParserLibrary(); \
 	friend DICOMVISUAL_API class UClass* Z_Construct_UClass_UDicomParserLibrary(); \
@@ -77,7 +77,7 @@ struct FImageStruct;
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_STANDARD_CONSTRUCTORS \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDicomParserLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDicomParserLibrary) \
@@ -90,7 +90,7 @@ private: \
 public:
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_ENHANCED_CONSTRUCTORS \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UDicomParserLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -103,26 +103,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UDicomParserLibrary); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UDicomParserLibrary)
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_PRIVATE_PROPERTY_OFFSET
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_27_PROLOG
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_GENERATED_BODY_LEGACY \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_PRIVATE_PROPERTY_OFFSET
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_31_PROLOG
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_PRIVATE_PROPERTY_OFFSET \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_RPC_WRAPPERS \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_INCLASS \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_STANDARD_CONSTRUCTORS \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_PRIVATE_PROPERTY_OFFSET \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_RPC_WRAPPERS \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_INCLASS \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_GENERATED_BODY \
+#define DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_PRIVATE_PROPERTY_OFFSET \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_RPC_WRAPPERS_NO_PURE_DECLS \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_INCLASS_NO_PURE_DECLS \
-	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_30_ENHANCED_CONSTRUCTORS \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_PRIVATE_PROPERTY_OFFSET \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_RPC_WRAPPERS_NO_PURE_DECLS \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_INCLASS_NO_PURE_DECLS \
+	DicomVisual_Source_DicomVisual_DicomParserLibrary_h_34_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

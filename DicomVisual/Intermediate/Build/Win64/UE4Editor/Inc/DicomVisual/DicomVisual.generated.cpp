@@ -39,7 +39,7 @@ static struct FScriptStruct_DicomVisual_StaticRegisterNativesFImageStruct
 		FNativeFunctionRegistrar::RegisterFunction(UDicomParserLibrary::StaticClass(), "getPixels",(Native)&UDicomParserLibrary::execgetPixels);
 		FNativeFunctionRegistrar::RegisterFunction(UDicomParserLibrary::StaticClass(), "HelloWorld",(Native)&UDicomParserLibrary::execHelloWorld);
 	}
-	IMPLEMENT_CLASS(UDicomParserLibrary, 3591410802);
+	IMPLEMENT_CLASS(UDicomParserLibrary, 1277977869);
 #if USE_COMPILED_IN_NATIVES
 // Cross Module References
 	ENGINE_API class UClass* Z_Construct_UClass_AActor();
@@ -107,18 +107,19 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 		if (!ReturnStruct)
 		{
 			ReturnStruct = new(EC_InternalUseOnlyConstructor, Outer, TEXT("ImageStruct"), RF_Public|RF_Transient|RF_MarkAsNative) UScriptStruct(FObjectInitializer(), NULL, new UScriptStruct::TCppStructOps<FImageStruct>, EStructFlags(0x00000001));
-			UProperty* NewProp_imagePixels = new(EC_InternalUseOnlyConstructor, ReturnStruct, TEXT("imagePixels"), RF_Public|RF_Transient|RF_MarkAsNative) UArrayProperty(CPP_PROPERTY_BASE(imagePixels, FImageStruct), 0x0010000000000000);
-			UProperty* NewProp_imagePixels_Inner = new(EC_InternalUseOnlyConstructor, NewProp_imagePixels, TEXT("imagePixels"), RF_Public|RF_Transient|RF_MarkAsNative) UObjectProperty(FObjectInitializer(), EC_CppProperty, 0, 0x0000000000000000, Z_Construct_UClass_AActor_NoRegister());
+			UProperty* NewProp_imagePixels = new(EC_InternalUseOnlyConstructor, ReturnStruct, TEXT("imagePixels"), RF_Public|RF_Transient|RF_MarkAsNative) UArrayProperty(CPP_PROPERTY_BASE(imagePixels, FImageStruct), 0x0010000000020015);
+			UProperty* NewProp_imagePixels_Inner = new(EC_InternalUseOnlyConstructor, NewProp_imagePixels, TEXT("imagePixels"), RF_Public|RF_Transient|RF_MarkAsNative) UObjectProperty(FObjectInitializer(), EC_CppProperty, 0, 0x0000000000020000, Z_Construct_UClass_AActor_NoRegister());
 			ReturnStruct->StaticLink();
 #if WITH_METADATA
 			UMetaData* MetaData = ReturnStruct->GetOutermost()->GetMetaData();
 			MetaData->SetValue(ReturnStruct, TEXT("ModuleRelativePath"), TEXT("DicomParserLibrary.h"));
+			MetaData->SetValue(NewProp_imagePixels, TEXT("Category"), TEXT("ImageStruct"));
 			MetaData->SetValue(NewProp_imagePixels, TEXT("ModuleRelativePath"), TEXT("DicomParserLibrary.h"));
 #endif
 		}
 		return ReturnStruct;
 	}
-	uint32 Get_Z_Construct_UScriptStruct_FImageStruct_CRC() { return 1579801306U; }
+	uint32 Get_Z_Construct_UScriptStruct_FImageStruct_CRC() { return 2088779163U; }
 	UFunction* Z_Construct_UFunction_UDicomParserLibrary_getPixels()
 	{
 		struct DicomParserLibrary_eventgetPixels_Parms
@@ -129,7 +130,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 		static UFunction* ReturnFunction = NULL;
 		if (!ReturnFunction)
 		{
-			ReturnFunction = new(EC_InternalUseOnlyConstructor, Outer, TEXT("getPixels"), RF_Public|RF_Transient|RF_MarkAsNative) UFunction(FObjectInitializer(), NULL, 0x04042401, 65535, sizeof(DicomParserLibrary_eventgetPixels_Parms));
+			ReturnFunction = new(EC_InternalUseOnlyConstructor, Outer, TEXT("getPixels"), RF_Public|RF_Transient|RF_MarkAsNative) UFunction(FObjectInitializer(), NULL, 0x04022401, 65535, sizeof(DicomParserLibrary_eventgetPixels_Parms));
 			UProperty* NewProp_ReturnValue = new(EC_InternalUseOnlyConstructor, ReturnFunction, TEXT("ReturnValue"), RF_Public|RF_Transient|RF_MarkAsNative) UArrayProperty(CPP_PROPERTY_BASE(ReturnValue, DicomParserLibrary_eventgetPixels_Parms), 0x0010000000000580);
 			UProperty* NewProp_ReturnValue_Inner = new(EC_InternalUseOnlyConstructor, NewProp_ReturnValue, TEXT("ReturnValue"), RF_Public|RF_Transient|RF_MarkAsNative) UStructProperty(FObjectInitializer(), EC_CppProperty, 0, 0x0000000000000000, Z_Construct_UScriptStruct_FImageStruct());
 			ReturnFunction->Bind();
@@ -152,7 +153,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 		static UFunction* ReturnFunction = NULL;
 		if (!ReturnFunction)
 		{
-			ReturnFunction = new(EC_InternalUseOnlyConstructor, Outer, TEXT("HelloWorld"), RF_Public|RF_Transient|RF_MarkAsNative) UFunction(FObjectInitializer(), NULL, 0x04042401, 65535, sizeof(DicomParserLibrary_eventHelloWorld_Parms));
+			ReturnFunction = new(EC_InternalUseOnlyConstructor, Outer, TEXT("HelloWorld"), RF_Public|RF_Transient|RF_MarkAsNative) UFunction(FObjectInitializer(), NULL, 0x04022401, 65535, sizeof(DicomParserLibrary_eventHelloWorld_Parms));
 			UProperty* NewProp_ReturnValue = new(EC_InternalUseOnlyConstructor, ReturnFunction, TEXT("ReturnValue"), RF_Public|RF_Transient|RF_MarkAsNative) UStrProperty(CPP_PROPERTY_BASE(ReturnValue, DicomParserLibrary_eventHelloWorld_Parms), 0x0010000000000580);
 			ReturnFunction->Bind();
 			ReturnFunction->StaticLink();
@@ -184,8 +185,8 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 				OuterClass->LinkChild(Z_Construct_UFunction_UDicomParserLibrary_getPixels());
 				OuterClass->LinkChild(Z_Construct_UFunction_UDicomParserLibrary_HelloWorld());
 
-				OuterClass->AddFunctionToFunctionMapWithOverriddenName(Z_Construct_UFunction_UDicomParserLibrary_getPixels(), "getPixels"); // 1114909404
-				OuterClass->AddFunctionToFunctionMapWithOverriddenName(Z_Construct_UFunction_UDicomParserLibrary_HelloWorld(), "HelloWorld"); // 3167472468
+				OuterClass->AddFunctionToFunctionMapWithOverriddenName(Z_Construct_UFunction_UDicomParserLibrary_getPixels(), "getPixels"); // 3490932442
+				OuterClass->AddFunctionToFunctionMapWithOverriddenName(Z_Construct_UFunction_UDicomParserLibrary_HelloWorld(), "HelloWorld"); // 2381210963
 				OuterClass->StaticLink();
 #if WITH_METADATA
 				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
@@ -207,7 +208,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), NULL, FName(TEXT("/Script/DicomVisual")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0xA98F8CC4;
+			Guid.A = 0x12E7A897;
 			Guid.B = 0x821FA0BB;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;

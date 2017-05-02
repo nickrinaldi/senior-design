@@ -1,0 +1,7 @@
+﻿  Performing full C++ include scan (hot reloading a new target)
+  Compiling game modules for hot reload
+  Performing 2 actions (4 in parallel)
+  DicomParserLibrary.cpp
+  [2/2] Link UE4Editor-DicomVisual-1974-Win64-DebugGame.dll
+     Creating library C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\DicomVisual\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-DicomVisual-1974-Win64-DebugGame.lib and object C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\DicomVisual\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-DicomVisual-1974-Win64-DebugGame.exp
+  Total build time: 2.99 seconds

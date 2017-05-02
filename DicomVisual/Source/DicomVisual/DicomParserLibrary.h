@@ -2,8 +2,12 @@
 
 #pragma once
 
+#include <iostream>
+#include <fstream>
+#include <vector>
 #include <string>
-#include "../../ThirdParty/Imebra/Includes/imebra.h"
+#include <sstream>
+//#include "../../ThirdParty/Imebra/Includes/imebra.h"
 #include "PixelActor.h"
 
 #include "Kismet/BlueprintFunctionLibrary.h"
@@ -17,7 +21,7 @@ struct FImageStruct
 {
 	GENERATED_USTRUCT_BODY()
 
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
 	TArray<AActor*> imagePixels;
 };
 
@@ -29,10 +33,16 @@ class DICOMVISUAL_API UDicomParserLibrary : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 
+	static const int LUMINANCE_FILTER = 500;
+
+	static std::vector<std::string> split(std::string str, char delimiter);
+
+public:
+
 	UFUNCTION(BlueprintCallable, Category = "DicomParsing")
 	static FString HelloWorld();
 
-	static FImageStruct loadImage(std::string filePath);
+	static FImageStruct loadImage(std::string filePath, uint8 imgNumber);
 
 	UFUNCTION(BlueprintCallable, Category = "DicomParsing")
 	static TArray<FImageStruct> getPixels();

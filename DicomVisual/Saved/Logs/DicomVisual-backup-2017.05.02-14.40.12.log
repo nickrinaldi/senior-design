@@ -1,0 +1,443 @@
+﻿Log file open, 05/02/17 14:02:40
+LogInit:Display: Running engine for game: DicomVisual
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1734840237) SRandInit(-1734840237).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.068465
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.05.02-21.02.40:644][  0]LogInit: Selected Device Profile: [Windows]
+[2017.05.02-21.02.40:644][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.05.02-21.02.40:653][  0]LogInit: Computer: WIN-KL1VMU461IK
+[2017.05.02-21.02.40:653][  0]LogInit: User: NickRinaldi
+[2017.05.02-21.02.40:653][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.05.02-21.02.40:653][  0]LogInit: High frequency timer resolution =3.914070 MHz
+[2017.05.02-21.02.40:653][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2017.05.02-21.02.40:653][  0]LogMemory: Platform Memory Stats for Windows
+[2017.05.02-21.02.40:653][  0]LogMemory: Process Physical Memory: 264.92 MB used, 264.92 MB peak
+[2017.05.02-21.02.40:653][  0]LogMemory: Process Virtual Memory: 262.79 MB used, 262.79 MB peak
+[2017.05.02-21.02.40:653][  0]LogMemory: Physical Memory: 5356.30 MB used,  27371.39 MB free, 32727.69 MB total
+[2017.05.02-21.02.40:653][  0]LogMemory: Virtual Memory: 676.41 MB used,  27371.39 MB free, 134217728.00 MB total
+[2017.05.02-21.02.40:673][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.05.02-21.02.41:103][  0]LogD3D11RHI: D3D11 adapters:
+[2017.05.02-21.02.41:121][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2017.05.02-21.02.41:121][  0]LogD3D11RHI:       8119/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.05.02-21.02.41:123][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.05.02-21.02.41:123][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.05.02-21.02.41:123][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.05.02-21.02.41:126][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.05.02-21.02.41:126][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2017.05.02-21.02.41:126][  0]LogWindows: EnumDisplayDevices:
+[2017.05.02-21.02.41:126][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2017.05.02-21.02.41:126][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.05.02-21.02.41:126][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.05.02-21.02.41:126][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2017.05.02-21.02.41:126][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.05.02-21.02.41:126][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2017.05.02-21.02.41:126][  0]LogD3D11RHI:   Driver Version: 378.92 (internal:21.21.13.7892, unified:378.92)
+[2017.05.02-21.02.41:126][  0]LogD3D11RHI:      Driver Date: 3-16-2017
+[2017.05.02-21.02.41:126][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.05.02-21.02.41:136][  0]LogD3D11RHI: Async texture creation enabled
+[2017.05.02-21.02.41:145][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.05.02-21.02.41:145][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Intermediate/Shaders/WorkingDirectory/11512/).
+[2017.05.02-21.02.41:145][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nick Rinaldi/AppData/Local/Temp/1/UnrealShaderWorkingDir/4178154B48B4EEFFB454B88CBE924BA8/'.
+[2017.05.02-21.02.41:145][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.05.02-21.02.41:781][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.05.02-21.02.41:817][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.05.02-21.02.41:853][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.05.02-21.02.41:888][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.05.02-21.02.41:924][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.05.02-21.02.41:961][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.05.02-21.02.41:998][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.05.02-21.02.42:037][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.05.02-21.02.42:066][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.05.02-21.02.42:102][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.05.02-21.02.42:138][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.05.02-21.02.42:174][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.05.02-21.02.42:210][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.05.02-21.02.42:246][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.05.02-21.02.42:282][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.05.02-21.02.42:354][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.05.02-21.02.42:354][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.05.02-21.02.42:378][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.05.02-21.02.42:440][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.05.02-21.02.42:464][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.05.02-21.02.42:499][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.05.02-21.02.42:534][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.05.02-21.02.42:569][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.05.02-21.02.42:604][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.05.02-21.02.42:605][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.05.02-21.02.42:870][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.05.02-21.02.42:907][  0]LogDerivedDataCache: Loaded boot cache 0.04s 50MB C:/Users/Nick Rinaldi/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.05.02-21.02.42:907][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Nick Rinaldi/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.05.02-21.02.42:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.05.02-21.02.42:907][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.05.02-21.02.42:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.05.02-21.02.42:907][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.05.02-21.02.42:920][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.05.02-21.02.42:931][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nick Rinaldi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.05.02-21.02.43:084][  0]LogInit: Selected Device Profile: [Windows]
+[2017.05.02-21.02.43:086][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.05.02-21.02.43:228][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.05.02-21.02.43:255][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.05.02-21.02.43:289][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.05.02-21.02.43:289][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.05.02-21.02.43:289][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.05.02-21.02.43:646][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: dicomvisual, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3438762601
+[2017.05.02-21.02.43:692][  0]LogAssetRegistry: FAssetRegistry took 0.0220 seconds to start up
+[2017.05.02-21.02.43:723][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.017448 seconds
+[2017.05.02-21.02.43:727][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.05.02-21.02.43:727][  0]LogUObjectAllocator: 6935840 out of 0 bytes used by permanent object pool.
+[2017.05.02-21.02.43:727][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.05.02-21.02.43:767][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.05.02-21.02.44:222][  0]LogSlate: Using Freetype 2.6.0
+[2017.05.02-21.02.44:222][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.05.02-21.02.44:222][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.05.02-21.02.44:767][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.05.02-21.02.44:800][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.05.02-21.02.45:057][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.05.02-21.02.45:312][  0]SourceControl: Info Source control is disabled
+[2017.05.02-21.02.45:337][  0]SourceControl: Info Source control is disabled
+[2017.05.02-21.02.45:369][  0]SourceControl: Info Source control is disabled
+[2017.05.02-21.02.45:400][  0]SourceControl: Info Source control is disabled
+[2017.05.02-21.02.46:290][  0]LogEngine: Initializing Engine...
+[2017.05.02-21.02.46:307][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-B2E1C7C0
+[2017.05.02-21.02.46:478][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.05.02-21.02.46:487][  0]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.02-21.02.46:499][  0]LogInit: FAudioDevice initialized.
+[2017.05.02-21.02.46:518][  0]LogDerivedDataCache: Saved boot cache 0.02s 50MB C:/Users/Nick Rinaldi/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.05.02-21.02.46:525][  0]LogInit: Texture streaming: Enabled
+[2017.05.02-21.02.46:642][  0]LogInit: Transaction tracking system initialized
+[2017.05.02-21.02.46:853][  0]BlueprintLog: New page: Editor Load
+[2017.05.02-21.02.47:392][  0]LocalizationService: Info Localization service is disabled
+[2017.05.02-21.02.47:803][  0]LogConsoleResponse:Display: 
+[2017.05.02-21.02.47:897][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.05.02-21.02.47:897][  0]LogCook:Display: Mobile HDR setting 0
+[2017.05.02-21.02.47:993][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/' took 0.01s
+[2017.05.02-21.02.48:525][  0]SourceControl: Info Source control is disabled
+[2017.05.02-21.02.48:525][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.02-21.02.48:526][  0]LightingResults: New page: Lighting Build
+[2017.05.02-21.02.48:551][  0]MapCheck: New page: Map Check
+[2017.05.02-21.02.48:551][  0]LightingResults: New page: Lighting Build
+[2017.05.02-21.02.48:722][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.05.02-21.02.48:722][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2017.05.02-21.02.48:722][  0]LoadErrors:Error: Error /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2017.05.02-21.02.48:725][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.05.02-21.02.48:725][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2017.05.02-21.02.48:725][  0]LoadErrors:Error: Error /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData
+[2017.05.02-21.02.48:727][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.05.02-21.02.48:727][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.05.02-21.02.48:727][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.05.02-21.02.48:727][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.05.02-21.02.48:732][  0]LogLinker:Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData'
+[2017.05.02-21.02.48:732][  0]LoadErrors: Info Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.05.02-21.02.48:732][  0]LogLinker:Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData' while loading NULL.
+[2017.05.02-21.02.48:732][  0]LoadErrors: Info Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2017.05.02-21.02.48:840][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.05.02-21.02.48:843][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.05.02-21.02.48:843][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.05.02-21.02.48:843][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.05.02-21.02.48:844][  0]LogSkinnedMeshComp:Warning: GetSocketByName(None: GripPoint): No SkeletalMesh for Mesh2P
+[2017.05.02-21.02.48:846][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.05.02-21.02.48:846][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.02-21.02.48:871][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 25.28ms to complete.
+[2017.05.02-21.02.48:871][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.346
+[2017.05.02-21.02.48:920][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.05.02-21.02.48:971][  0]LogCollectionManager: Loaded 0 collections in 0.001073 seconds
+[2017.05.02-21.02.49:031][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Collections/' took 0.01s
+[2017.05.02-21.02.49:031][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/Developers/NickRinaldi/Collections/' took 0.01s
+[2017.05.02-21.02.49:031][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/Collections/' took 0.01s
+[2017.05.02-21.02.49:031][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.05.02-21.02.49:039][  0]LogContentBrowser: Native class hierarchy populated in 0.0070 seconds. Added 2192 classes and 430 folders.
+[2017.05.02-21.02.49:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.05.02-21.02.49:064][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.05.02-21.02.49:065][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0008 seconds. Added 13 classes and 0 folders.
+[2017.05.02-21.02.49:104][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.05.02-21.02.49:127][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.05.02-21.02.49:154][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.05.02-21.02.49:205][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.05.02-21.02.49:214][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.05.02-21.02.49:262][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.05.02-21.02.49:263][  0]LogLoad: (Engine Initialization) Total time: 9.90 seconds
+[2017.05.02-21.02.49:263][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.11 seconds
+[2017.05.02-21.02.49:263][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.05.02-21.02.49:272][  0]LogOcInput: OculusInput pre-init called
+[2017.05.02-21.02.49:284][  0]LogAssetRegistry: Asset discovery search completed in 5.6143 seconds
+[2017.05.02-21.02.49:284][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.05.02-21.02.49:284][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2017.05.02-21.02.49:286][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.05.02-21.02.49:407][  0]LogRenderer: Reallocating scene render targets to support 1616x644 NumSamples 1 (Frame:2).
+[2017.05.02-21.02.58:580][ 91]LogAIModule: Creating AISystem for world VRMap
+[2017.05.02-21.02.58:602][ 91]Cmd: MAP LOAD FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Maps/VRMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.02-21.02.58:602][ 91]LightingResults: New page: Lighting Build
+[2017.05.02-21.02.58:602][ 91]LoadErrors: New page: Loading map: VRMap.umap
+[2017.05.02-21.02.58:603][ 91]MapCheck: New page: Map Check
+[2017.05.02-21.02.58:603][ 91]LightingResults: New page: Lighting Build
+[2017.05.02-21.02.58:644][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.05.02-21.02.58:662][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.02-21.02.58:688][ 91]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 26.108ms to complete.
+[2017.05.02-21.02.58:689][ 91]LogFileHelpers: Loading map 'VRMap' took 0.088
+[2017.05.02-21.03.02:744][538]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.05.02-21.08.38:926][744]BlueprintLog: New page: Compile Menu
+[2017.05.02-21.08.39:428][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/Menu" FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset" SILENT=true
+[2017.05.02-21.08.39:449][794]LogSavePackage: Save=14.27ms
+[2017.05.02-21.08.39:449][794]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Menu383B23FA49542C93FF4AE1BB616263A2.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset'
+[2017.05.02-21.08.39:451][794]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset
+[2017.05.02-21.14.24:856][193]BlueprintLog: New page: Compile Menu
+[2017.05.02-21.14.25:732][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/Menu" FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset" SILENT=true
+[2017.05.02-21.14.25:754][289]LogSavePackage: Save=15.62ms
+[2017.05.02-21.14.25:754][289]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/MenuFA74F5924F533AA69C5ABFB45592549D.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset'
+[2017.05.02-21.14.25:756][289]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset
+[2017.05.02-21.17.32:555][592]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/VRMap' took 0.011
+[2017.05.02-21.17.32:556][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Menu/Menu] ([1] browsable assets)...
+[2017.05.02-21.17.32:556][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Menu/Menu]
+[2017.05.02-21.17.32:575][592]LogSavePackage: Save=16.66ms
+[2017.05.02-21.17.32:575][592]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Menu_Auto17F7683374DD9F2ED46AE05B9F1171B7E.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Autosaves/Game/FirstPerson/Menu/Menu_Auto1.uasset'
+[2017.05.02-21.17.32:576][592]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Autosaves/Game/FirstPerson/Menu/Menu_Auto1.uasset
+[2017.05.02-21.17.32:576][592]LogFileHelpers: Auto-saving content packages took 0.020
+[2017.05.02-21.19.37:929][621]BlueprintLog: New page: Compile Menu
+[2017.05.02-21.19.38:605][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/Menu" FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset" SILENT=true
+[2017.05.02-21.19.38:628][691]LogSavePackage: Save=17.73ms
+[2017.05.02-21.19.38:628][691]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Menu7F5D885C4FB4B4CA87B4408AA31609F3.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset'
+[2017.05.02-21.19.38:630][691]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset
+[2017.05.02-21.20.08:289][228]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.02-21.21.48:983][847]BlueprintLog: New page: Compile Menu
+[2017.05.02-21.21.49:507][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/Menu" FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset" SILENT=true
+[2017.05.02-21.21.49:528][900]LogSavePackage: Save=18.96ms
+[2017.05.02-21.21.49:528][900]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/MenuC066F58F4255EEE606AF3CA423F0009C.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset'
+[2017.05.02-21.21.49:530][900]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset
+[2017.05.02-21.22.56:079][849]LogRenderer: Reallocating scene render targets to support 1616x712 NumSamples 1 (Frame:7961).
+[2017.05.02-21.27.33:050][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/VRMap' took 0.013
+[2017.05.02-21.27.33:051][ 57]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Menu/Menu] ([1] browsable assets)...
+[2017.05.02-21.27.33:051][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Menu/Menu]
+[2017.05.02-21.27.33:075][ 57]LogSavePackage: Save=18.51ms
+[2017.05.02-21.27.33:075][ 57]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Menu_Auto27C3AD8754C80C4171F15F0942409102E.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Autosaves/Game/FirstPerson/Menu/Menu_Auto2.uasset'
+[2017.05.02-21.27.33:076][ 57]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Autosaves/Game/FirstPerson/Menu/Menu_Auto2.uasset
+[2017.05.02-21.27.33:076][ 57]LogFileHelpers: Auto-saving content packages took 0.025
+[2017.05.02-21.32.34:266][225]BlueprintLog: New page: Compile Menu
+[2017.05.02-21.32.35:107][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/Menu" FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset" SILENT=true
+[2017.05.02-21.32.35:132][316]LogSavePackage: Save=18.81ms
+[2017.05.02-21.32.35:132][316]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Menu7398B73A4F3209679B58CA8FC5FA60AC.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset'
+[2017.05.02-21.32.35:133][316]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset
+[2017.05.02-21.33.58:474][ 49]LogSavePackage: Save=7.71ms
+[2017.05.02-21.33.58:474][ 49]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Pixel90DF768947D02A24D66CBEAB96E18E68.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/Pixel.uasset'
+[2017.05.02-21.33.58:475][ 49]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/Pixel.uasset
+[2017.05.02-21.34.56:918][674]BlueprintLog: New page: Compile Pixel
+[2017.05.02-21.34.57:758][744]LogSavePackage: Save=13.64ms
+[2017.05.02-21.34.57:758][744]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Pixel26943E89473567F306D5849BDEC7885F.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/Pixel.uasset'
+[2017.05.02-21.34.57:759][744]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPersonBP/Blueprints/Pixel.uasset
+[2017.05.02-21.35.31:427][713]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.02-21.35.53:003][293]BlueprintLog: New page: Compile Menu
+[2017.05.02-21.35.55:487][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Menu/Menu" FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset" SILENT=true
+[2017.05.02-21.35.55:509][581]LogSavePackage: Save=19.12ms
+[2017.05.02-21.35.55:509][581]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Saved/Menu6A879D9943681061B587BC97484ED9AB.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset'
+[2017.05.02-21.35.55:511][581]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/Content/FirstPerson/Menu/Menu.uasset
+[2017.05.02-21.35.57:610][832]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.05.02-21.36.02:043][357]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2017.05.02-21.36.02:046][357]Recompiling DicomVisual...
+[2017.05.02-21.36.02:046][357]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe DicomVisual -ModuleWithSuffix DicomVisual 5851 Win64 Development -editorrecompile -canskiplink "C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/DicomVisual.uproject" ]
+[2017.05.02-21.36.02:047][357]Warning: Starting HotReload took  0.0s.
+[2017.05.02-21.36.02:484][409]CompilerResultsLog: New page: Compilation - May 2, 2017, 7:36:02 AM
+[2017.05.02-21.36.02:484][409]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.05.02-21.36.02:484][409]CompilerResultsLog: Info Target is up to date
+[2017.05.02-21.36.02:484][409]LogMainFrame: MainFrame: Module compiling took 0.441 seconds
+[2017.05.02-21.36.02:685][409]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2194 classes and 434 folders.
+[2017.05.02-21.36.02:685][409]Display: HotReload took  0.6s.
+[2017.05.02-21.36.11:571][473]LogTemp: Repeting last play command: VR Preview
+[2017.05.02-21.36.11:588][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.05.02-21.36.11:588][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.02-21.36.11:588][473]PIE: New page: PIE session: VRMap (May 2, 2017, 7:36:11 AM)
+[2017.05.02-21.36.11:588][473]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap
+[2017.05.02-21.36.11:605][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017626s)
+[2017.05.02-21.36.11:606][473]LogAIModule: Creating AISystem for world VRMap
+[2017.05.02-21.36.11:606][473]LogPlayLevel: PIE: World Init took: (0.000629s)
+[2017.05.02-21.36.11:606][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/VRMap.VRMap to /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap (0.018462s)
+[2017.05.02-21.36.11:638][473]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.02-21.36.11:644][473]LogInit: FAudioDevice initialized.
+[2017.05.02-21.36.11:729][473]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.05.02-21.36.11:731][473]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap.VRMap up for play (max tick rate 0) at 2017.05.02-14.36.11
+[2017.05.02-21.36.11:731][473]LogWorld: Bringing up level for play took: 0.001315
+[2017.05.02-21.36.11:768][473]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2017.05.02-21.36.11:773][473]PIE: Info Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_VRMap -0.275
+[2017.05.02-21.36.11:773][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap' with GeneratedClass '/Game/FirstPersonBP/Maps/VRMap.VRMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/VRMap.VRMap:PersistentLevel.VRMap'
+[2017.05.02-21.36.11:822][474]LogRenderer: Reallocating scene render targets to support 3024x1680 NumSamples 1 (Frame:42091).
+[2017.05.02-21.36.15:789][783]LogTemp:Warning: Parsing image: 1.dcm
+[2017.05.02-21.36.16:186][783]LogTemp:Warning: Parsing image: 2.dcm
+[2017.05.02-21.36.16:655][783]LogTemp:Warning: Parsing image: 3.dcm
+[2017.05.02-21.36.17:161][783]LogTemp:Warning: Parsing image: 4.dcm
+[2017.05.02-21.36.17:724][783]LogTemp:Warning: Parsing image: 5.dcm
+[2017.05.02-21.36.18:258][783]LogTemp:Warning: Parsing image: 6.dcm
+[2017.05.02-21.36.18:777][783]LogTemp:Warning: Parsing image: 7.dcm
+[2017.05.02-21.36.19:393][783]LogTemp:Warning: Parsing image: 8.dcm
+[2017.05.02-21.36.20:004][783]LogTemp:Warning: Parsing image: 9.dcm
+[2017.05.02-21.36.20:628][783]LogTemp:Warning: Parsing image: 10.dcm
+[2017.05.02-21.36.21:232][783]LogTemp:Warning: Parsing image: 11.dcm
+[2017.05.02-21.36.21:869][783]LogTemp:Warning: Parsing image: 12.dcm
+[2017.05.02-21.36.22:522][783]LogTemp:Warning: Parsing image: 13.dcm
+[2017.05.02-21.36.23:325][783]LogTemp:Warning: Parsing image: 14.dcm
+[2017.05.02-21.36.23:888][783]LogTemp:Warning: Parsing image: 15.dcm
+[2017.05.02-21.36.24:511][783]LogTemp:Warning: Parsing image: 16.dcm
+[2017.05.02-21.36.25:075][783]LogTemp:Warning: Parsing image: 17.dcm
+[2017.05.02-21.36.25:658][783]LogTemp:Warning: Parsing image: 18.dcm
+[2017.05.02-21.36.26:232][783]LogTemp:Warning: Parsing image: 19.dcm
+[2017.05.02-21.36.26:839][783]LogTemp:Warning: Parsing image: 20.dcm
+[2017.05.02-21.36.27:531][783]LogTemp:Warning: Parsing image: 21.dcm
+[2017.05.02-21.36.28:232][783]LogTemp:Warning: Parsing image: 22.dcm
+[2017.05.02-21.36.28:884][783]LogTemp:Warning: Parsing image: 23.dcm
+[2017.05.02-21.36.29:549][783]LogTemp:Warning: Parsing image: 24.dcm
+[2017.05.02-21.36.30:242][783]LogTemp:Warning: Parsing image: 25.dcm
+[2017.05.02-21.36.31:347][783]LogTemp:Warning: Parsing image: 26.dcm
+[2017.05.02-21.36.31:994][783]LogTemp:Warning: Parsing image: 27.dcm
+[2017.05.02-21.36.32:635][783]LogTemp:Warning: Parsing image: 28.dcm
+[2017.05.02-21.36.33:401][783]LogTemp:Warning: Parsing image: 29.dcm
+[2017.05.02-21.36.34:043][783]LogTemp:Warning: Parsing image: 30.dcm
+[2017.05.02-21.36.34:700][783]LogTemp:Warning: Parsing image: 31.dcm
+[2017.05.02-21.36.35:330][783]LogTemp:Warning: Parsing image: 32.dcm
+[2017.05.02-21.36.35:940][783]LogTemp:Warning: Parsing image: 33.dcm
+[2017.05.02-21.36.36:511][783]LogTemp:Warning: Parsing image: 34.dcm
+[2017.05.02-21.36.37:027][783]LogTemp:Warning: Parsing image: 35.dcm
+[2017.05.02-21.36.37:479][783]LogTemp:Warning: Parsing image: 36.dcm
+[2017.05.02-21.36.37:479][783]LogTemp:Warning: Parsing image: 37.dcm
+[2017.05.02-21.36.37:479][783]LogTemp:Warning: Parsing image: 38.dcm
+[2017.05.02-21.36.37:479][783]LogTemp:Warning: Parsing image: 39.dcm
+[2017.05.02-21.39.26:075][783]LogScript:Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	Menu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.Menu_C_7
+	Function /Game/FirstPerson/Menu/Menu.Menu_C:ExecuteUbergraph_Menu:02B3
+[2017.05.02-21.39.26:075][783]PIE:Error: Error Infinite Loop detected in  Menu , asserted during  SpawnActor Pixel with the following  Call Stack
