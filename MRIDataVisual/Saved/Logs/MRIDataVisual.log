@@ -280,3 +280,78 @@ LogInit: Object subsystem initialized
 [2017.05.07-01.47.14:422][  0]LogLoad: (Engine Initialization) Total time: 9.34 seconds
 [2017.05.07-01.47.14:422][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.03 seconds
 [2017.05.07-01.47.14:422][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.05.07-01.47.14:432][  0]LogOcInput: OculusInput pre-init called
+[2017.05.07-01.47.14:445][  0]LogAssetRegistry: Asset discovery search completed in 5.3615 seconds
+[2017.05.07-01.47.14:445][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.05.07-01.47.14:445][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2017.05.07-01.47.14:447][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.05.07-01.47.14:566][  0]LogRenderer: Reallocating scene render targets to support 1616x644 NumSamples 1 (Frame:2).
+[2017.05.07-01.47.14:601][  1]Cmd: POLY SELECT ALL
+[2017.05.07-01.49.05:441][811]LogAIModule: Creating AISystem for world MRIMap
+[2017.05.07-01.49.05:460][811]Cmd: MAP LOAD FILE="../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.07-01.49.05:460][811]LightingResults: New page: Lighting Build
+[2017.05.07-01.49.05:460][811]LoadErrors: New page: Loading map: MRIMap.umap
+[2017.05.07-01.49.05:461][811]MapCheck: New page: Map Check
+[2017.05.07-01.49.05:461][811]LightingResults: New page: Lighting Build
+[2017.05.07-01.49.05:500][811]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.05.07-01.49.05:515][811]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.07-01.49.05:542][811]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 26.355ms to complete.
+[2017.05.07-01.49.05:542][811]LogFileHelpers: Loading map 'MRIMap' took 0.082
+[2017.05.07-01.49.06:730][950]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2017.05.07-01.49.06:733][950]Recompiling MRIDataVisual...
+[2017.05.07-01.49.06:733][950]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe MRIDataVisual -ModuleWithSuffix MRIDataVisual 8503 Win64 Development -editorrecompile -canskiplink "C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/MRIDataVisual.uproject" ]
+[2017.05.07-01.49.06:734][950]Warning: Starting HotReload took  0.0s.
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: New page: Compilation - May 6, 2017, 11:49:38 AM
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info Creating makefile for hot reloading MRIDataVisual (changes to module files)
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info Parsing headers for MRIDataVisualEditor
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\MRIDataVisual\MRIDataVisual.uproject" "C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\MRIDataVisual\Intermediate\Build\Win64\MRIDataVisualEditor\Development\MRIDataVisualEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info Reflection code generated for MRIDataVisualEditor in 2.2760219 seconds
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info Performing 7 actions (4 in parallel)
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info [2/7] Resource PCLaunch.rc
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info [3/7] Resource ModuleVersionResource.rc.inl
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info PCH.MRIDataVisual.h.cpp
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info MRIDataActor.cpp
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info MRIDataVisual.cpp
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info MRIDataVisual.generated.cpp
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info [7/7] Link UE4Editor-MRIDataVisual-8503.dll
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info    Creating library C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\MRIDataVisual\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MRIDataVisual-8503.lib and object C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\MRIDataVisual\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MRIDataVisual-8503.exp
+[2017.05.07-01.49.38:694][784]CompilerResultsLog: Info Total build time: 31.93 seconds
+[2017.05.07-01.49.38:694][784]LogMainFrame: MainFrame: Module compiling took 31.964 seconds
+[2017.05.07-01.49.38:741][784]LogClass: Could not find existing class MRIDataActor in package /Script/MRIDataVisual for HotReload, assuming new class
+[2017.05.07-01.49.43:691][784]LogHotReload: Re-instancing MRIDataActor after hot-reload.
+[2017.05.07-01.49.43:795][784]LogContentBrowser: Native class hierarchy updated for 'MRIDataVisual' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.05.07-01.49.43:797][784]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.05.07-01.49.43:806][784]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2193 classes and 434 folders.
+[2017.05.07-01.49.43:806][784]Display: HotReload took 37.1s.
+[2017.05.07-01.50.03:307][ 36]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.05.07-01.50.03:333][ 37]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MRIDataVisual
+
+[2017.05.07-01.50.03:333][ 37]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.05.07-01.50.03:333][ 37]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.05.07-01.50.03:333][ 37]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.05.07-01.50.03:333][ 37]LogTemp:Display: BranchPath = WIN-KL1VMU461IK/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = WIN-KL1VMU461IK/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.05.07-01.50.03:343][ 38]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Nick Rinaldi\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.05.07-01.50.03:344][ 38]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.05.07-01.50.03:344][ 38]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.05.07-01.50.03:344][ 38]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.05.07-01.50.03:344][ 38]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.05.07-01.50.03:344][ 38]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.05.07-01.50.39:621][332]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 111 classes and 0 folders.
+[2017.05.07-01.50.39:674][332]LogBlueprintSupport:Warning: Editor config [EditoronlyBP] settings are DEPRECATED. You're not explicitly setting any, but they've been defaulting to off. If you are relying on this functionality, then please fix it up so your Blueprints don't break in a future release.
+[2017.05.07-01.52.59:807][934]BlueprintLog: New page: Compile MotionControllerPawn
+[2017.05.07-01.53.01:020][ 56]LogSavePackage: Save=49.92ms
+[2017.05.07-01.53.01:020][ 56]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MotionControllerPawnA58C5DBC47C4D5EBDA7491B4F26D751E.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2017.05.07-01.53.01:022][ 56]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2017.05.07-01.53.13:515][542]LogSavePackage: Save=67.64ms
+[2017.05.07-01.53.13:515][542]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MRIMap61CB17C54061778096244B939E8CD071.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap'
