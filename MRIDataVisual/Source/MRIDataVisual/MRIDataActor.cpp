@@ -50,7 +50,6 @@ void AMRIDataActor::loadImage(std::string fileName, int imgNumber)
 	std::string line;
 	std::ifstream pixelDataFile(fileName);
 
-	int pixelCount = 0;
 	int startHeight = 370;
 
 	float lengthRadius = 0.8;
@@ -73,12 +72,9 @@ void AMRIDataActor::loadImage(std::string fileName, int imgNumber)
 
 			if (luminance > LUMINANCE_FILTER)
 			{
-				pixelCount++;
-
-				float rgb = ((luminance / 14) % 256);
-				int blue = 255;
+				/*int blue = 255;
 				int green = 255;
-				int red = 255;
+				int red = 255;*/
 
 				// front view
 				vertices.Add(FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
@@ -98,6 +94,15 @@ void AMRIDataActor::loadImage(std::string fileName, int imgNumber)
 				vertexColors.Add(FColor(red, green, blue, 1));
 				vertexColors.Add(FColor(red, green, blue, 1));
 				vertexColors.Add(FColor(red, green, blue, 1));*/
+
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 - widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 - widthHeightRadius) / 10));
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 + widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 - widthHeightRadius) / 10));
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 + widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 + widthHeightRadius) / 10));
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 - widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 + widthHeightRadius) / 10));
 
 				triangles.Add(vertices.Num() - 4);
 				triangles.Add(vertices.Num() - 3);
@@ -120,10 +125,19 @@ void AMRIDataActor::loadImage(std::string fileName, int imgNumber)
 					((float)scanX) * widthHeightRadius * 2 + widthHeightRadius,
 					((float)scanY) * widthHeightRadius * 2 + widthHeightRadius));
 
+				/*vertexColors.Add(FColor(red, green, blue, 1));
 				vertexColors.Add(FColor(red, green, blue, 1));
 				vertexColors.Add(FColor(red, green, blue, 1));
-				vertexColors.Add(FColor(red, green, blue, 1));
-				vertexColors.Add(FColor(red, green, blue, 1));
+				vertexColors.Add(FColor(red, green, blue, 1));*/
+
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 - widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 - widthHeightRadius) / 10));
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 + widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 - widthHeightRadius) / 10));
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 + widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 + widthHeightRadius) / 10));
+				UV0.Add(FVector2D((((float)scanX) * widthHeightRadius * 2 - widthHeightRadius) / 10,
+					(((float)scanY) * widthHeightRadius * 2 + widthHeightRadius) / 10));
 
 				triangles.Add(vertices.Num() - 4);
 				triangles.Add(vertices.Num() - 3);
