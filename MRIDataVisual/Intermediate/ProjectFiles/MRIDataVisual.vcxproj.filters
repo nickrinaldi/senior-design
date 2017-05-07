@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\MRIDataVisual.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{5CAD063D-442D-4973-8B9B-1E59D2979B33}</UniqueIdentifier>
+			<UniqueIdentifier>{A2A3FB6A-C4D9-48DC-8E5D-8139BFA21391}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\MRIDataVisual.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{C6EF7D6A-1815-4BB0-9C0F-9920EB4F7025}</UniqueIdentifier>
+			<UniqueIdentifier>{60B22C04-0BE2-4675-B51B-2AB3E8587AC9}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
 			<Filter>Config</Filter>
@@ -31,7 +31,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\MRIDataVisual">
-			<UniqueIdentifier>{6583FF91-EB74-4D9E-832D-4DFC6EC95A45}</UniqueIdentifier>
+			<UniqueIdentifier>{555B2986-C3F2-4649-B0DF-91AD79F9B11D}</UniqueIdentifier>
 		</Filter>
 		<ClCompile Include="..\..\Source\MRIDataVisual\MRIDataActor.cpp">
 			<Filter>Source\MRIDataVisual</Filter>

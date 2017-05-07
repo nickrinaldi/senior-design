@@ -10,15 +10,6 @@ AMRIDataActor::AMRIDataActor()
 	// Set this actor to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = false;
 
-	//static ConstructorHelpers::FObjectFinder<UMaterial> Material(TEXT("Material'/MRIDataVisual/Content/VirtualReality/Materials/M_MRIDataActor.M_MRIDataActor'"));
-	//UMaterial *material = NULL;
-	//if (Material.Object != NULL)
-	//{
-	//	material = (UMaterial*)Material.Object;
-	//}
-
-	//UMaterialInstanceDynamic* dynamicMaterial = UMaterialInstanceDynamic::Create(material, this);
-
 	mesh = CreateDefaultSubobject<UProceduralMeshComponent>(TEXT("GeneratedMesh"));
 	RootComponent = mesh;
 	/**
@@ -47,7 +38,6 @@ AMRIDataActor::AMRIDataActor()
 	TArray<FProcMeshTangent> tangents;
 
 	mesh->CreateMeshSection(0, vertices, triangles, normals, UV0, vertexColors, tangents, false);
-	//mesh->SetMaterial(0, dynamicMaterial);
 }
 
 // sets the vertices, triangles, vertexColors arrays
@@ -109,32 +99,6 @@ void AMRIDataActor::loadImage(std::string fileName, int imgNumber)
 				vertexColors.Add(FColor(red, green, blue, 1));
 				vertexColors.Add(FColor(red, green, blue, 1));*/
 
-				/*FDynamicMeshVertex v1;
-				v1.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v1.Color = FColor(255, 255, 255, 1);
-				FDynamicMeshVertex v2;
-				v2.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v2.Color = FColor(255, 255, 255, 1);
-				FDynamicMeshVertex v3;
-				v3.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v3.Color = FColor(255, 255, 255, 1);
-				FDynamicMeshVertex v4;
-				v4.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v4.Color = FColor(255, 255, 255, 1);
-
-				vertices.Add(v1);
-				vertices.Add(v2);
-				vertices.Add(v3);
-				vertices.Add(v4);*/
-
 				triangles.Add(vertices.Num() - 4);
 				triangles.Add(vertices.Num() - 3);
 				triangles.Add(vertices.Num() - 2);
@@ -160,32 +124,6 @@ void AMRIDataActor::loadImage(std::string fileName, int imgNumber)
 				vertexColors.Add(FColor(red, green, blue, 1));
 				vertexColors.Add(FColor(red, green, blue, 1));
 				vertexColors.Add(FColor(red, green, blue, 1));
-
-				/*FDynamicMeshVertex v5;
-				v5.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v5.Color = FColor(255, 255, 255, 1);
-				FDynamicMeshVertex v6;
-				v6.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v6.Color = FColor(255, 255, 255, 1);
-				FDynamicMeshVertex v7;
-				v7.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v7.Color = FColor(255, 255, 255, 1);
-				FDynamicMeshVertex v8;
-				v8.Position = FVector(((float)imgNumber) * lengthRadius * 2 - lengthRadius,
-				((float)scanX) * widthHeightRadius * 2 - widthHeightRadius,
-				((float)scanY) * widthHeightRadius * 2 - widthHeightRadius);
-				v8.Color = FColor(255, 255, 255, 1);
-
-				vertices.Add(v5);
-				vertices.Add(v6);
-				vertices.Add(v7);
-				vertices.Add(v8);*/
 
 				triangles.Add(vertices.Num() - 4);
 				triangles.Add(vertices.Num() - 3);
