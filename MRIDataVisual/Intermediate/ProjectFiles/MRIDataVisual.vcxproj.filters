@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MRIDataVisual.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{5CAD063D-442D-4973-8B9B-1E59D2979B33}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MRIDataVisual.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MRIDataVisualEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{C6EF7D6A-1815-4BB0-9C0F-9920EB4F7025}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultScalability.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MRIDataVisual">
+			<UniqueIdentifier>{6583FF91-EB74-4D9E-832D-4DFC6EC95A45}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\MRIDataVisual\MRIDataActor.cpp">
+			<Filter>Source\MRIDataVisual</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MRIDataVisual\MRIDataActor.h">
+			<Filter>Source\MRIDataVisual</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\MRIDataVisual\MRIDataVisual.Build.cs">
+			<Filter>Source\MRIDataVisual</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MRIDataVisual\MRIDataVisual.cpp">
+			<Filter>Source\MRIDataVisual</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MRIDataVisual\MRIDataVisual.h">
+			<Filter>Source\MRIDataVisual</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

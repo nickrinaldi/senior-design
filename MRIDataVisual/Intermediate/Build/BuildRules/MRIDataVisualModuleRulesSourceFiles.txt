@@ -1,0 +1,3 @@
+C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\MRIDataVisual\Source\MRIDataVisual\MRIDataVisual.Build.cs
+C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\MRIDataVisual\Source\MRIDataVisual.Target.cs
+C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\MRIDataVisual\Source\MRIDataVisualEditor.Target.cs
