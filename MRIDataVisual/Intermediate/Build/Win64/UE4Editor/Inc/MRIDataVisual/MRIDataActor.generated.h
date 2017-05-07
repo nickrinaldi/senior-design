@@ -11,9 +11,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MRIDATAVISUAL_MRIDataActor_generated_h
 
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_RPC_WRAPPERS
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_RPC_WRAPPERS_NO_PURE_DECLS
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_INCLASS_NO_PURE_DECLS \
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS_NO_PURE_DECLS
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesAMRIDataActor(); \
 	friend MRIDATAVISUAL_API class UClass* Z_Construct_UClass_AMRIDataActor(); \
@@ -24,7 +24,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_INCLASS \
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_INCLASS \
 	private: \
 	static void StaticRegisterNativesAMRIDataActor(); \
 	friend MRIDATAVISUAL_API class UClass* Z_Construct_UClass_AMRIDataActor(); \
@@ -35,7 +35,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_STANDARD_CONSTRUCTORS \
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMRIDataActor(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMRIDataActor) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_ENHANCED_CONSTRUCTORS \
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMRIDataActor(AMRIDataActor&&); \
@@ -59,26 +59,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AMRIDataActor); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMRIDataActor)
 
 
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_PRIVATE_PROPERTY_OFFSET
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_8_PROLOG
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_GENERATED_BODY_LEGACY \
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__mesh() { return STRUCT_OFFSET(AMRIDataActor, mesh); }
+
+
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_15_PROLOG
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_PRIVATE_PROPERTY_OFFSET \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_RPC_WRAPPERS \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_INCLASS \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_STANDARD_CONSTRUCTORS \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_PRIVATE_PROPERTY_OFFSET \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_INCLASS \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_GENERATED_BODY \
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_PRIVATE_PROPERTY_OFFSET \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_RPC_WRAPPERS_NO_PURE_DECLS \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_INCLASS_NO_PURE_DECLS \
-	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_11_ENHANCED_CONSTRUCTORS \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_PRIVATE_PROPERTY_OFFSET \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_INCLASS_NO_PURE_DECLS \
+	MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

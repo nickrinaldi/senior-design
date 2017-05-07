@@ -13,10 +13,11 @@ void EmptyLinkFunctionForGeneratedCode1MRIDataVisual() {}
 	void AMRIDataActor::StaticRegisterNativesAMRIDataActor()
 	{
 	}
-	IMPLEMENT_CLASS(AMRIDataActor, 3292919875);
+	IMPLEMENT_CLASS(AMRIDataActor, 460829386);
 #if USE_COMPILED_IN_NATIVES
 // Cross Module References
 	ENGINE_API class UClass* Z_Construct_UClass_AActor();
+	PROCEDURALMESHCOMPONENT_API class UClass* Z_Construct_UClass_UProceduralMeshComponent_NoRegister();
 
 	MRIDATAVISUAL_API class UClass* Z_Construct_UClass_AMRIDataActor_NoRegister();
 	MRIDATAVISUAL_API class UClass* Z_Construct_UClass_AMRIDataActor();
@@ -39,11 +40,17 @@ void EmptyLinkFunctionForGeneratedCode1MRIDataVisual() {}
 				OuterClass->ClassFlags |= 0x20900080;
 
 
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+				UProperty* NewProp_mesh = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("mesh"), RF_Public|RF_Transient|RF_MarkAsNative) UObjectProperty(CPP_PROPERTY_BASE(mesh, AMRIDataActor), 0x00400000000a0009, Z_Construct_UClass_UProceduralMeshComponent_NoRegister());
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
 				OuterClass->StaticLink();
 #if WITH_METADATA
 				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
 				MetaData->SetValue(OuterClass, TEXT("IncludePath"), TEXT("MRIDataActor.h"));
 				MetaData->SetValue(OuterClass, TEXT("ModuleRelativePath"), TEXT("MRIDataActor.h"));
+				MetaData->SetValue(NewProp_mesh, TEXT("Category"), TEXT("Materials"));
+				MetaData->SetValue(NewProp_mesh, TEXT("EditInline"), TEXT("true"));
+				MetaData->SetValue(NewProp_mesh, TEXT("ModuleRelativePath"), TEXT("MRIDataActor.h"));
 #endif
 			}
 		}
@@ -60,7 +67,7 @@ void EmptyLinkFunctionForGeneratedCode1MRIDataVisual() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), NULL, FName(TEXT("/Script/MRIDataVisual")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0xB12C86CF;
+			Guid.A = 0x975A84BD;
 			Guid.B = 0xAC99DFC1;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
