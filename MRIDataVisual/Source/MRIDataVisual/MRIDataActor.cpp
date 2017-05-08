@@ -27,9 +27,24 @@ AMRIDataActor::AMRIDataActor()
 	//	void CreateMeshSection(int32 SectionIndex, const TArray<FVector>& Vertices, const TArray<int32>& Triangles, const TArray<FVector>& Normals,
 	// const TArray<FVector2D>& UV0, const TArray<FColor>& VertexColors, const TArray<FProcMeshTangent>& Tangents, bool bCreateCollision);
 
+	//int allImages = 35;
+
+	//for (int i = 14; i <= 15; i++) {
+	//	loadImage("C:/Users/Nick Rinaldi/Documents/MRI-images/scan/" + std::to_string(i) + ".txt", i);
+	//}
+
+	//TArray<FVector> normals;
+	////TArray<FVector2D> UV0;
+	//TArray<FProcMeshTangent> tangents;
+
+	//mesh->CreateMeshSection(0, vertices, triangles, normals, UV0, vertexColors, tangents, false);
+}
+
+void AMRIDataActor::init(int start, int end)
+{
 	int allImages = 35;
 
-	for (int i = 14; i <= 15; i++) {
+	for (int i = start; i <= end; i++) {
 		loadImage("C:/Users/Nick Rinaldi/Documents/MRI-images/scan/" + std::to_string(i) + ".txt", i);
 	}
 

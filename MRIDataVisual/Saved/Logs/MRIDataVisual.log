@@ -1,9 +1,9 @@
-﻿Log file open, 05/07/17 15:30:07
+﻿Log file open, 05/07/17 17:15:56
 LogInit:Display: Running engine for game: MRIDataVisual
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(320583543) SRandInit(320583543).
+LogInit:Display: RandInit(-597421986) SRandInit(-597421985).
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.352495
+LogStats: Stats thread started at 0.066795
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin

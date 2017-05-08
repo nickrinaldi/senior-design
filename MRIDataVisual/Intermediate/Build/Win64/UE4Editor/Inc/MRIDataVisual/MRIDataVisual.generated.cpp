@@ -12,16 +12,42 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCode1MRIDataVisual() {}
 	void AMRIDataActor::StaticRegisterNativesAMRIDataActor()
 	{
+		FNativeFunctionRegistrar::RegisterFunction(AMRIDataActor::StaticClass(), "init",(Native)&AMRIDataActor::execinit);
 	}
-	IMPLEMENT_CLASS(AMRIDataActor, 460829386);
+	IMPLEMENT_CLASS(AMRIDataActor, 1396293710);
 #if USE_COMPILED_IN_NATIVES
 // Cross Module References
 	ENGINE_API class UClass* Z_Construct_UClass_AActor();
 	PROCEDURALMESHCOMPONENT_API class UClass* Z_Construct_UClass_UProceduralMeshComponent_NoRegister();
 
+	MRIDATAVISUAL_API class UFunction* Z_Construct_UFunction_AMRIDataActor_init();
 	MRIDATAVISUAL_API class UClass* Z_Construct_UClass_AMRIDataActor_NoRegister();
 	MRIDATAVISUAL_API class UClass* Z_Construct_UClass_AMRIDataActor();
 	MRIDATAVISUAL_API class UPackage* Z_Construct_UPackage__Script_MRIDataVisual();
+	UFunction* Z_Construct_UFunction_AMRIDataActor_init()
+	{
+		struct MRIDataActor_eventinit_Parms
+		{
+			int32 start;
+			int32 end;
+		};
+		UObject* Outer=Z_Construct_UClass_AMRIDataActor();
+		static UFunction* ReturnFunction = NULL;
+		if (!ReturnFunction)
+		{
+			ReturnFunction = new(EC_InternalUseOnlyConstructor, Outer, TEXT("init"), RF_Public|RF_Transient|RF_MarkAsNative) UFunction(FObjectInitializer(), NULL, 0x04020401, 65535, sizeof(MRIDataActor_eventinit_Parms));
+			UProperty* NewProp_end = new(EC_InternalUseOnlyConstructor, ReturnFunction, TEXT("end"), RF_Public|RF_Transient|RF_MarkAsNative) UUnsizedIntProperty(CPP_PROPERTY_BASE(end, MRIDataActor_eventinit_Parms), 0x0010000000000080);
+			UProperty* NewProp_start = new(EC_InternalUseOnlyConstructor, ReturnFunction, TEXT("start"), RF_Public|RF_Transient|RF_MarkAsNative) UUnsizedIntProperty(CPP_PROPERTY_BASE(start, MRIDataActor_eventinit_Parms), 0x0010000000000080);
+			ReturnFunction->Bind();
+			ReturnFunction->StaticLink();
+#if WITH_METADATA
+			UMetaData* MetaData = ReturnFunction->GetOutermost()->GetMetaData();
+			MetaData->SetValue(ReturnFunction, TEXT("Category"), TEXT("Set Scan"));
+			MetaData->SetValue(ReturnFunction, TEXT("ModuleRelativePath"), TEXT("MRIDataActor.h"));
+#endif
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_AMRIDataActor_NoRegister()
 	{
 		return AMRIDataActor::StaticClass();
@@ -39,10 +65,12 @@ void EmptyLinkFunctionForGeneratedCode1MRIDataVisual() {}
 				UObjectForceRegistration(OuterClass);
 				OuterClass->ClassFlags |= 0x20900080;
 
+				OuterClass->LinkChild(Z_Construct_UFunction_AMRIDataActor_init());
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 				UProperty* NewProp_mesh = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("mesh"), RF_Public|RF_Transient|RF_MarkAsNative) UObjectProperty(CPP_PROPERTY_BASE(mesh, AMRIDataActor), 0x00400000000a0009, Z_Construct_UClass_UProceduralMeshComponent_NoRegister());
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
+				OuterClass->AddFunctionToFunctionMapWithOverriddenName(Z_Construct_UFunction_AMRIDataActor_init(), "init"); // 682981208
 				OuterClass->StaticLink();
 #if WITH_METADATA
 				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
@@ -67,8 +95,8 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), NULL, FName(TEXT("/Script/MRIDataVisual")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0x975A84BD;
-			Guid.B = 0xAC99DFC1;
+			Guid.A = 0x5E247564;
+			Guid.B = 0x932A3DA2;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);

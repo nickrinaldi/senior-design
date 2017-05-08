@@ -1,9 +1,9 @@
-﻿Log file open, 05/06/17 19:52:01
+﻿Log file open, 05/07/17 16:53:05
 LogInit:Display: Running engine for game: DicomVisual
 LogPlatformFile: Not using cached read wrapper
-LogInit:Display: RandInit(-624978164) SRandInit(-624978164).
+LogInit:Display: RandInit(-1666601080) SRandInit(-1666601080).
 LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
-LogStats: Stats thread started at 0.066004
+LogStats: Stats thread started at 0.066803
 LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
 LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
 LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
@@ -103,20 +103,12 @@ LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epi
 LogInit:Warning: Incompatible or missing module: UE4Editor-DicomVisual.dll
 Running C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe DicomVisual Development Win64 -project="C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/DicomVisual/DicomVisual.uproject" -editorrecompile -progress -noubtmakefiles -NoHotReloadFromIDE
 @progress push 5%
-Parsing headers for DicomVisualEditor
-  Running UnrealHeaderTool "C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\DicomVisual\DicomVisual.uproject" "C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\DicomVisual\Intermediate\Build\Win64\DicomVisualEditor\Development\DicomVisualEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-Reflection code generated for DicomVisualEditor in 2.0789818 seconds
 @progress pop
-Performing 6 actions (4 in parallel)
-PCH.DicomVisual.h.cpp
-DicomVisual.generated.cpp
-DicomParserLibrary.cpp
-DicomVisual.cpp
-PixelActor.cpp
-[6/6] Link UE4Editor-DicomVisual.dll
+Performing 1 actions (4 in parallel)
+[1/1] Link UE4Editor-DicomVisual.dll
 LINK : fatal error LNK1181: cannot open input file 'C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\DicomVisual\ThirdParty\Imebra\Libraries\imebra.lib'
 ERROR: UBT ERROR: Failed to produce item: C:\Users\Nick Rinaldi\Documents\GitHub\senior-design\DicomVisual\Binaries\Win64\UE4Editor-DicomVisual.dll
-Total build time: 26.83 seconds
+Total build time: 8.98 seconds
 LogInit:Warning: Still incompatible or missing module: UE4Editor-DicomVisual.dll
 LogExit: Preparing to exit.
 LogModuleManager: Shutting down and abandoning module DesktopPlatform (15)
@@ -135,4 +127,4 @@ LogModuleManager: Shutting down and abandoning module StreamingFile (3)
 LogModuleManager: Shutting down and abandoning module SandboxFile (2)
 LogModuleManager: Shutting down and abandoning module PakFile (1)
 LogExit: Exiting.
-Log file closed, 05/06/17 19:53:56
+Log file closed, 05/07/17 16:53:23

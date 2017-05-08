@@ -11,8 +11,32 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define MRIDATAVISUAL_MRIDataActor_generated_h
 
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS
-#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS_NO_PURE_DECLS
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execinit) \
+	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_start); \
+		P_GET_PROPERTY(UIntProperty,Z_Param_end); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->init(Z_Param_start,Z_Param_end); \
+		P_NATIVE_END; \
+	}
+
+
+#define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execinit) \
+	{ \
+		P_GET_PROPERTY(UIntProperty,Z_Param_start); \
+		P_GET_PROPERTY(UIntProperty,Z_Param_end); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->init(Z_Param_start,Z_Param_end); \
+		P_NATIVE_END; \
+	}
+
+
 #define MRIDataVisual_Source_MRIDataVisual_MRIDataActor_h_18_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesAMRIDataActor(); \

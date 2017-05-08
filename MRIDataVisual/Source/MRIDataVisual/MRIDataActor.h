@@ -36,6 +36,9 @@ public:
 	// Sets default values for this actor's properties
 	AMRIDataActor();
 
+	UFUNCTION(BlueprintCallable, Category = "Set Scan")
+	void init(int start, int end);
+
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
