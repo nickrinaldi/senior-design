@@ -778,3 +778,241 @@ Script call stack:
 [2017.05.08-01.03.53:456][999]LogSavePackage: Save=21.39ms
 [2017.05.08-01.03.53:456][999]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu34A08DFC496F292F72A3E0A595860EB7.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
 [2017.05.08-01.03.53:458][999]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.07.43:093][303]LogEditorTransaction: Undo Move Widget
+[2017.05.08-01.07.46:303][668]LogEditorTransaction: Undo Move Widget
+[2017.05.08-01.10.03:504][914]LogEditorTransaction: Undo Move Widget
+[2017.05.08-01.11.08:394][658]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.11.09:063][715]LogSavePackage: Save=22.90ms
+[2017.05.08-01.11.09:063][715]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu19C5B3A34BF4C4010CC28EB6551463C6.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.11.09:065][715]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.11.55:500][275]LogEditorTransaction: Undo Create Binding
+[2017.05.08-01.12.04:506][351]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.12.05:044][400]LogSavePackage: Save=23.79ms
+[2017.05.08-01.12.05:044][400]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu3AF29BFE40627486D50EF8A4B1C14186.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.12.05:045][400]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.12.58:456][782]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.12.58:992][831]LogSavePackage: Save=24.11ms
+[2017.05.08-01.12.58:992][831]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu706E1CB9409419B78F41588601156C1B.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.12.58:994][831]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.13.44:823][316]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.13.45:416][371]LogSavePackage: Save=25.55ms
+[2017.05.08-01.13.45:416][371]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuC793273F4058AB142714EBB95653760D.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.13.45:418][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.16.06:839][226]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.16.07:385][270]LogSavePackage: Save=27.82ms
+[2017.05.08-01.16.07:385][270]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuB438B34547415D194162DF90DB9F17E5.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.16.07:387][270]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.16.12:259][851]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.16.12:762][890]LogSavePackage: Save=30.13ms
+[2017.05.08-01.16.12:762][890]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuF334F1684EBB293B03E68A86BAB014D8.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.16.12:763][890]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.17.48:942][354]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.17.49:455][399]LogSavePackage: Save=27.26ms
+[2017.05.08-01.17.49:455][399]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuDC96CD444478323E3C1402B453C0EA36.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.17.49:457][399]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.18.12:503][144]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.05.08-01.21.10:651][391]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.21.11:257][447]LogSavePackage: Save=27.06ms
+[2017.05.08-01.21.11:257][447]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu3776B45245939323F70AC5987533207A.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.21.11:259][447]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.21.58:396][ 86]Cmd: TRANSACTION UNDO
+[2017.05.08-01.21.58:396][ 86]LogEditorTransaction: Undo Create Binding
+[2017.05.08-01.22.00:769][365]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.22.01:347][417]LogSavePackage: Save=26.67ms
+[2017.05.08-01.22.01:347][417]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu4845BF8A448DD8E8C98590B3D7F1D976.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.22.01:349][417]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.27.37:081][392]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.27.37:941][472]LogSavePackage: Save=28.60ms
+[2017.05.08-01.27.37:941][472]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuCC499CA2487E712A33B6699A010D9CF5.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.27.37:943][472]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.28.03:100][490]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.28.04:407][625]LogSavePackage: Save=28.39ms
+[2017.05.08-01.28.04:407][625]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuF3C7CD1645DC56CA6DA3389F6AD0457C.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.28.04:409][625]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.28.34:196][188]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.28.34:898][250]LogSavePackage: Save=30.18ms
+[2017.05.08-01.28.34:898][250]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuE7D1C28A459D738587D6849570BD37D5.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.28.34:900][250]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.28.44:055][348]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.28.45:504][500]LogSavePackage: Save=28.70ms
+[2017.05.08-01.28.45:504][500]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu57195CCA437B1DA0275584BC2927EC97.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.28.45:506][500]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.28.52:901][387]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.28.53:857][480]LogSavePackage: Save=27.28ms
+[2017.05.08-01.28.53:857][480]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuA07B7A4C49266BC8BB10048183828406.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.28.53:859][480]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.29.05:560][884]LogEditorTransaction: Undo Set Vector Property
+[2017.05.08-01.29.46:472][963]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.29.47:013][  6]LogSavePackage: Save=26.73ms
+[2017.05.08-01.29.47:013][  6]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu0EB3546843C2AB66173D059B5AF864ED.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.29.47:014][  6]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.29.50:162][300]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.05.08-01.29.50:186][301]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MRIDataVisual
+
+[2017.05.08-01.29.50:186][301]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.05.08-01.29.50:186][301]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.05.08-01.29.50:186][301]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.05.08-01.29.50:186][301]LogTemp:Display: BranchPath = WIN-KL1VMU461IK/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = WIN-KL1VMU461IK/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.05.08-01.29.50:196][302]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\Nick Rinaldi\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.05.08-01.29.50:196][302]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.05.08-01.29.50:196][302]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.05.08-01.29.50:196][302]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.05.08-01.29.50:196][302]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.05.08-01.29.50:196][302]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.05.08-01.30.21:203][148]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.30.22:100][233]LogSavePackage: Save=26.02ms
+[2017.05.08-01.30.22:100][233]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuA5CAD25F4FB9EBD77D1FF1AFEA4C206B.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.30.22:101][233]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.31.01:037][511]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.31.01:636][561]LogSavePackage: Save=27.39ms
+[2017.05.08-01.31.01:636][561]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu07623F0541DDCA084F753B953F35D9EB.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.31.01:638][561]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.31.05:664][ 44]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.31.06:169][ 83]LogSavePackage: Save=26.55ms
+[2017.05.08-01.31.06:169][ 83]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu6D819EF94968C9F7DE3593B2A5ED83C9.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.31.06:171][ 83]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.32.25:173][529]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.32.25:682][572]LogSavePackage: Save=34.52ms
+[2017.05.08-01.32.25:682][572]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu121B7A994AA056CB2F57FF845E95C7D3.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.32.25:684][572]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.32.47:290][158]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.32.47:763][197]LogSavePackage: Save=28.63ms
+[2017.05.08-01.32.47:763][197]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu4004857643B62C319AC79EBBC3A34EDB.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.32.47:765][197]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.33.00:441][715]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.33.01:059][772]LogSavePackage: Save=27.58ms
+[2017.05.08-01.33.01:060][772]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuEE1A6C3E4EF77E527FBFDD85B2EA0D8E.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.33.01:061][772]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.34.22:913][556]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.34.23:638][625]LogSavePackage: Save=30.36ms
+[2017.05.08-01.34.23:638][625]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuFB1A2056401B13A0DFD57F9EE0B12582.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.34.23:639][625]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.34.30:926][464]LogSavePackage: Save=215.46ms
+[2017.05.08-01.34.30:926][464]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MRIMapB63D996948A6EB9985431A8B1E311ECF.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap'
+[2017.05.08-01.34.30:927][464]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap
+[2017.05.08-01.34.44:347][ 69]LogTemp: Repeting last play command: VR Preview
+[2017.05.08-01.34.44:367][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.34.44:367][ 69]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.08-01.34.44:367][ 69]PIE: New page: PIE session: MRIMap (May 7, 2017, 11:34:44 AM)
+[2017.05.08-01.34.44:367][ 69]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap
+[2017.05.08-01.34.44:370][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002798s)
+[2017.05.08-01.34.44:370][ 69]LogAIModule: Creating AISystem for world MRIMap
+[2017.05.08-01.34.44:370][ 69]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2017.05.08-01.34.44:371][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MRIMap.MRIMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap (0.003443s)
+[2017.05.08-01.34.44:392][ 69]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.08-01.34.44:398][ 69]LogInit: FAudioDevice initialized.
+[2017.05.08-01.34.44:493][ 69]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.05.08-01.34.44:493][ 69]LogLoad: Game class is 'GameModeBase'
+[2017.05.08-01.34.44:494][ 69]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap up for play (max tick rate 0) at 2017.05.07-18.34.44
+[2017.05.08-01.34.44:495][ 69]LogWorld: Bringing up level for play took: 0.000717
+[2017.05.08-01.34.44:502][ 69]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap 0.46
+[2017.05.08-01.34.44:502][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.35.38:399][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.35.38:428][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.36.09:009][549]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.36.09:765][623]LogSavePackage: Save=29.43ms
+[2017.05.08-01.36.09:765][623]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/Menu17600495426B60819C7F1C8E40FE159E.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.36.09:767][623]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.36.11:973][887]Recompiling MRIDataVisual...
+[2017.05.08-01.36.11:973][887]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe MRIDataVisual -ModuleWithSuffix MRIDataVisual 1191 Win64 Development -editorrecompile -canskiplink "C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/MRIDataVisual.uproject" ]
+[2017.05.08-01.36.11:974][887]Warning: Starting HotReload took  0.0s.
+[2017.05.08-01.36.13:722][ 96]CompilerResultsLog: New page: Compilation - May 7, 2017, 11:36:13 AM
+[2017.05.08-01.36.13:722][ 96]CompilerResultsLog: Info Creating makefile for hot reloading MRIDataVisual (ini files are newer that UBTMakefile)
+[2017.05.08-01.36.13:722][ 96]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.05.08-01.36.13:722][ 96]CompilerResultsLog: Info Target is up to date
+[2017.05.08-01.36.13:722][ 96]LogMainFrame: MainFrame: Module compiling took 1.751 seconds
+[2017.05.08-01.36.13:930][ 96]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2193 classes and 434 folders.
+[2017.05.08-01.36.13:930][ 96]Display: HotReload took  2.0s.
+[2017.05.08-01.36.15:194][218]LogSavePackage: Save=202.41ms
+[2017.05.08-01.36.15:194][218]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MRIMap2C70D7EE4A2E2D5BA6F7EBBAE9009C85.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap'
+[2017.05.08-01.36.15:195][218]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap
+[2017.05.08-01.36.22:692][103]LogTemp: Repeting last play command: VR Preview
+[2017.05.08-01.36.22:705][103]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.36.22:705][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.08-01.36.22:705][103]PIE: New page: PIE session: MRIMap (May 7, 2017, 11:36:22 AM)
+[2017.05.08-01.36.22:705][103]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap
+[2017.05.08-01.36.22:708][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002874s)
+[2017.05.08-01.36.22:709][103]LogAIModule: Creating AISystem for world MRIMap
+[2017.05.08-01.36.22:709][103]LogPlayLevel: PIE: World Init took: (0.000455s)
+[2017.05.08-01.36.22:709][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MRIMap.MRIMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap (0.003567s)
+[2017.05.08-01.36.22:732][103]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.08-01.36.22:738][103]LogInit: FAudioDevice initialized.
+[2017.05.08-01.36.22:831][103]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.05.08-01.36.22:831][103]LogLoad: Game class is 'GameModeBase'
+[2017.05.08-01.36.22:833][103]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap up for play (max tick rate 0) at 2017.05.07-18.36.22
+[2017.05.08-01.36.22:833][103]LogWorld: Bringing up level for play took: 0.000719
+[2017.05.08-01.36.22:840][103]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap 0.798
+[2017.05.08-01.36.22:840][103]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.36.47:369][277]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.36.47:398][277]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.38.34:344][986]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.38.35:013][ 49]LogSavePackage: Save=28.62ms
+[2017.05.08-01.38.35:013][ 49]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuFC12CEB1413E68CAF47465B57F1E6D2B.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.38.35:015][ 49]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.38.37:663][334]LogSavePackage: Save=199.79ms
+[2017.05.08-01.38.37:663][334]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MRIMapF0A386E444E8B1900246CCACDEA5EED7.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap'
+[2017.05.08-01.38.37:664][334]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap
+[2017.05.08-01.38.45:397][255]LogTemp: Repeting last play command: VR Preview
+[2017.05.08-01.38.45:410][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.38.45:410][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.08-01.38.45:410][255]PIE: New page: PIE session: MRIMap (May 7, 2017, 11:38:45 AM)
+[2017.05.08-01.38.45:410][255]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap
+[2017.05.08-01.38.45:413][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002787s)
+[2017.05.08-01.38.45:413][255]LogAIModule: Creating AISystem for world MRIMap
+[2017.05.08-01.38.45:413][255]LogPlayLevel: PIE: World Init took: (0.000381s)
+[2017.05.08-01.38.45:413][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MRIMap.MRIMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap (0.003322s)
+[2017.05.08-01.38.45:429][255]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.08-01.38.45:433][255]LogInit: FAudioDevice initialized.
+[2017.05.08-01.38.45:533][255]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.05.08-01.38.45:533][255]LogLoad: Game class is 'GameModeBase'
+[2017.05.08-01.38.45:534][255]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap up for play (max tick rate 0) at 2017.05.07-18.38.45
+[2017.05.08-01.38.45:535][255]LogWorld: Bringing up level for play took: 0.000734
+[2017.05.08-01.38.45:543][255]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap -0.5
+[2017.05.08-01.38.45:543][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.40.44:943][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.40.44:982][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.44.06:044][527]BlueprintLog: New page: Compile Menu
+[2017.05.08-01.44.06:638][583]LogSavePackage: Save=28.34ms
+[2017.05.08-01.44.06:638][583]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MenuAE0DFDF7486E87918DB69C9D0EE2CB92.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset'
+[2017.05.08-01.44.06:640][583]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Blueprints/Menu.uasset
+[2017.05.08-01.44.09:900][944]LogSavePackage: Save=186.45ms
+[2017.05.08-01.44.09:900][944]LogSavePackage: Moving '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Saved/MRIMapAE5B2F73477614F610EFCB9A31DCFB22.tmp' to '../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap'
+[2017.05.08-01.44.09:901][944]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/Content/VirtualRealityBP/Maps/MRIMap.umap
+[2017.05.08-01.44.17:994][911]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2017.05.08-01.44.17:996][911]Recompiling MRIDataVisual...
+[2017.05.08-01.44.17:996][911]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe MRIDataVisual -ModuleWithSuffix MRIDataVisual 8977 Win64 Development -editorrecompile -canskiplink "C:/Users/Nick Rinaldi/Documents/GitHub/senior-design/MRIDataVisual/MRIDataVisual.uproject" ]
+[2017.05.08-01.44.17:997][911]Warning: Starting HotReload took  0.0s.
+[2017.05.08-01.44.18:423][962]CompilerResultsLog: New page: Compilation - May 7, 2017, 11:44:18 AM
+[2017.05.08-01.44.18:423][962]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.05.08-01.44.18:423][962]CompilerResultsLog: Info Target is up to date
+[2017.05.08-01.44.18:423][962]LogMainFrame: MainFrame: Module compiling took 0.429 seconds
+[2017.05.08-01.44.18:618][962]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2193 classes and 434 folders.
+[2017.05.08-01.44.18:618][962]Display: HotReload took  0.6s.
+[2017.05.08-01.44.20:441][181]LogTemp: Repeting last play command: VR Preview
+[2017.05.08-01.44.20:454][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.44.20:454][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.08-01.44.20:454][181]PIE: New page: PIE session: MRIMap (May 7, 2017, 11:44:20 AM)
+[2017.05.08-01.44.20:454][181]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap
+[2017.05.08-01.44.20:457][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002710s)
+[2017.05.08-01.44.20:457][181]LogAIModule: Creating AISystem for world MRIMap
+[2017.05.08-01.44.20:458][181]LogPlayLevel: PIE: World Init took: (0.000381s)
+[2017.05.08-01.44.20:458][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MRIMap.MRIMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap (0.003235s)
+[2017.05.08-01.44.20:495][181]LogInit: XAudio2 using 'Speakers (2- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.05.08-01.44.20:500][181]LogInit: FAudioDevice initialized.
+[2017.05.08-01.44.20:600][181]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.05.08-01.44.20:600][181]LogLoad: Game class is 'GameModeBase'
+[2017.05.08-01.44.20:601][181]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap.MRIMap up for play (max tick rate 0) at 2017.05.07-18.44.20
+[2017.05.08-01.44.20:601][181]LogWorld: Bringing up level for play took: 0.000962
+[2017.05.08-01.44.20:610][181]PIE: Info Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MRIMap 0.567
+[2017.05.08-01.44.20:610][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
+[2017.05.08-01.44.52:800][999]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MRIMap.MRIMap:PersistentLevel.MRIMap'
